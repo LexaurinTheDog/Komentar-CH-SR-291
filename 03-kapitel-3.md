@@ -1,4 +1,4 @@
-# Kommentarkapitel 03 — 3a. Kapitel:53 Eingetragene Partnerschaft54
+# Kommentarkapitel 03 — 3. Kapitel: Eherecht; 3a. Kapitel: Eingetragene Partnerschaft
 
 #### 3. Kapitel: Eherecht
 
@@ -66,7 +66,7 @@ Beispiel: Zwei ausländische Personen erhalten die Bewilligung zur Eheschliessun
 
 Abs. 1 geht von der Anerkennung einer im Ausland gültig geschlossenen Ehe aus, vorbehaltlich Art. 45a. Abs. 2 begrenzt die Anerkennung bei besonderem Inlandsbezug und offenbarer Umgehungsabsicht hinsichtlich schweizerischer Eheungültigkeitsregeln. Eine Auslandsheirat allein beweist diese Absicht nicht. Die Voraussetzungen sind anhand des konkreten Ablaufs festzustellen.
 
-Abs. 3 enthält eigenständige Altersgrenzen: Vor Vollendung des 16. Altersjahrs beider Personen erfolgt keine Anerkennung; zusätzlich ist die bei Eheschluss bestehende Minderjährigkeit mit schweizerischem Wohnsitz wenigstens eines Ehegatten erheblich. Beispiel: Eine im Ausland gültige Ehe einer damals 17-jährigen Person ist nicht allein wegen der ausländischen Gültigkeit anzuerkennen, wenn bei Eheschluss ein Ehegatte in der Schweiz wohnte. Die zeitlichen Voraussetzungen dürfen nicht vermischt werden.
+Abs. 3 enthält eigenständige Altersgrenzen: Solange mindestens ein Ehegatte das 16. Altersjahr noch nicht vollendet hat, erfolgt keine Anerkennung; zusätzlich ist die bei Eheschluss bestehende Minderjährigkeit mit schweizerischem Wohnsitz wenigstens eines Ehegatten erheblich. Beispiel: Eine im Ausland gültige Ehe einer damals 17-jährigen Person ist nicht allein wegen der ausländischen Gültigkeit anzuerkennen, wenn bei Eheschluss ein Ehegatte in der Schweiz wohnte. Die zeitlichen Voraussetzungen dürfen nicht vermischt werden.
 
 #### IV. Ungültigerklärung der Ehe
 

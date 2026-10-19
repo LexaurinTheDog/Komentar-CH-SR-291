@@ -772,16 +772,16 @@
   "missing_commentary": [],
   "extra_commentary": [],
   "duplicate_commentary_blocks": [],
-  "commentary_characters": 216046,
-  "median_commentary_characters": 862,
+  "commentary_characters": 218003,
+  "median_commentary_characters": 863,
   "exact_repeated_substantive_paragraphs": [],
   "shared_18_word_sequences": [],
-  "local_links_checked": 59,
+  "local_links_checked": 75,
   "missing_local_links": [],
   "limitations": [
     "Structural and wording tests do not establish legal correctness.",
     "Exact repetition checks do not establish depth or originality by themselves.",
-    "Independent second-pass substantive review remains pending."
+    "Substantive second-pass findings are documented separately in REVIEW.md and review-result.json; these technical metrics alone do not establish substantive correctness."
   ],
   "ok": true
 }

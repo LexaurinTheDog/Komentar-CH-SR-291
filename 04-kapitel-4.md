@@ -258,7 +258,7 @@ Beispiel: Eine Behörde hat Kindesunterhalt vorgeschossen und verlangt Ersatz vo
 
 Eltern-Kind-Beziehungen folgen grundsätzlich dem Recht am gewöhnlichen Aufenthalt des Kindes. Abs. 2 schaltet bei gemeinsamer Staatsangehörigkeit aller drei Personen auf Heimatrecht um, wenn kein Elternteil im Aufenthaltsstaat des Kindes wohnt. Beide Voraussetzungen sind kumulativ. Eine gemeinsame Staatsangehörigkeit allein verdrängt das Aufenthaltsrecht daher nicht.
 
-Abs. 3 nimmt Namen, Kindesschutz und Erbrecht ausdrücklich aus; Unterhalt ist in Art. 83 besonders geregelt. Beispiel: Ein Kind lebt in einem Internat im Staat A, beide Eltern wohnen im gemeinsamen Heimatstaat B. Vor der Statutenwahl ist zu prüfen, ob A tatsächlich gewöhnlicher Aufenthalt ist und ob die Voraussetzungen des Abs. 2 vorliegen. Ein Streit über elterliche Schutzmassnahmen kann ungeachtet dessen dem besonderen Übereinkommensregime unterliegen.
+Abs. 3 nimmt Namen, Kindesschutz und Erbrecht ausdrücklich aus; Unterhalt ist in Art. 83 besonders geregelt. Beispiel: Ein Kind lebt in einem Internat im Staat A, beide Eltern wohnen im gemeinsamen Heimatstaat B. Vor der Bestimmung des Statuts ist zu prüfen, ob A tatsächlich gewöhnlicher Aufenthalt ist und ob die Voraussetzungen des Abs. 2 vorliegen. Ein Streit über elterliche Schutzmassnahmen kann ungeachtet dessen dem besonderen Übereinkommensregime unterliegen.
 
 #### 2. Unterhaltspflicht
 

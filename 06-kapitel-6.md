@@ -18,7 +18,7 @@
 
 Der letzte schweizerische Wohnsitz des Erblassers begründet die Zuständigkeit für die Nachlassabwicklung und erbrechtliche Streitigkeiten. Der Begriff folgt Art. 20; blosse Vermögensbelegenheit oder Staatsangehörigkeit ersetzen den letzten Wohnsitz nicht. Abs. 2 wahrt ausländische ausschliessliche Zuständigkeiten für dortige Grundstücke und kann dadurch die Reichweite der schweizerischen Abwicklung begrenzen.
 
-Beispiel: Eine in Bern verstorbene Person hinterlässt bewegliches Vermögen und ein Grundstück im Ausland. Grundsätzlich liegt die Nachlasszuständigkeit in Bern. Beansprucht der Grundstücksstaat ausschliessliche Zuständigkeit, ist dessen Sonderbereich zu beachten. Zusätzlich können wirksame Zuständigkeitsunterstellungen nach Art. 88b eingreifen. Die Frage des anwendbaren Erbrechts bleibt nach Art. 90 und 91 gesondert zu lösen.
+Beispiel: Eine Person mit letztem Wohnsitz in Bern hinterlässt bewegliches Vermögen und ein Grundstück im Ausland. Grundsätzlich liegt die Nachlasszuständigkeit in Bern. Beansprucht der Grundstücksstaat ausschliessliche Zuständigkeit, ist dessen Sonderbereich zu beachten. Zusätzlich können wirksame Zuständigkeitsunterstellungen nach Art. 88b eingreifen. Die Frage des anwendbaren Erbrechts bleibt nach Art. 90 und 91 gesondert zu lösen.
 
 #### 2. Heimatzuständigkeit
 

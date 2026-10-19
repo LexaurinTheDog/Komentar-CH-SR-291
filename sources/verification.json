@@ -197,6 +197,81 @@
       "sha256": "3f5c8b6eff0cd9f200bd42222bce9d4130178481ffa15507d938cc73439d45fd",
       "method": "Derived or preserved evidence; see associated source provenance",
       "recorded_at": "2026-10-19T14:53:54.934316+00:00"
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20260101-de-xml-3.xml",
+      "path": "sources/review-fedlex-20260101.xml",
+      "accessed_at": "2026-10-19T14:59:07.332308+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "3651f38282edcb4c40feb1527588ca9df531e262b2472bd9300fda00a6eee680",
+      "bytes": 337851,
+      "format_validation": "247 articles; parsed expected XML/HTML body",
+      "same_bytes_as_author_snapshot": true,
+      "review_fetch": true
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2025/684/de/xml/fedlex-data-admin-ch-eli-oc-2025-684-de-xml.xml",
+      "path": "sources/review-as-2025-684.xml",
+      "accessed_at": "2026-10-19T14:59:07.816804+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "431042e4c8040a299a41f8362423a0a62b5a83e40079b4c64dee4402d2af0a1b",
+      "bytes": 14188,
+      "format_validation": "amendment; parsed expected XML/HTML body",
+      "same_bytes_as_author_snapshot": true,
+      "review_fetch": true
+    },
+    {
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023",
+      "path": "sources/review-4A-603-2023-full.html",
+      "accessed_at": "2026-10-19T14:59:08.281044+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=ISO-8859-1",
+      "sha256": "3c7526fb58739796d5017c03a43b2a25069be4dc962b134ec5786d6af6523a48",
+      "bytes": 50712,
+      "format_validation": "4A_603/2023; parsed expected XML/HTML body",
+      "same_bytes_as_author_snapshot": false,
+      "review_fetch": true
+    },
+    {
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://26-06-2025-4A_528-2024",
+      "path": "sources/review-4A-528-2024-full.html",
+      "accessed_at": "2026-10-19T14:59:09.788921+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=ISO-8859-1",
+      "sha256": "81f8295252978253b4e3c1f55aa3049783e7d98dda11494afde119cdfc1ed45b",
+      "bytes": 46704,
+      "format_validation": "4A_528/2024; parsed expected XML/HTML body",
+      "same_bytes_as_author_snapshot": false,
+      "review_fetch": true
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/de/history",
+      "path": "sources/review-history-rendered.md",
+      "method": "Firecrawl rendered webpage extraction; target HTTP status not exposed by CLI",
+      "accessed_at": "2026-10-19T14:57:00+00:00",
+      "sha256": "176d10658ff9b4b3288f9e9c64236abb1e18c5cf7221e268f551bee3f8538e88",
+      "format_validation": "Rendered SR 291 Chronologie with version manifestation links, not merely JavaScript shell",
+      "review_fetch": true
+    },
+    {
+      "path": "sources/preamble.md",
+      "sha256": "f3c5e23d7fae24b8ab01dd60b0016a3c08997bf023b93d8ba1b4107b9e515cc4",
+      "method": "Second-pass derived evidence from preserved official HTML/XML and judgment HTML; reproducible in _parse.py or full judgment comparison",
+      "recorded_at": "2026-10-19T15:04:10.440048+00:00"
+    },
+    {
+      "path": "sources/editorial-notes.json",
+      "sha256": "54be7b02368c865efe006dbef4f80ec0b2ae237caebd0cdc809f12c68f53134b",
+      "method": "Second-pass derived evidence from preserved official HTML/XML and judgment HTML; reproducible in _parse.py or full judgment comparison",
+      "recorded_at": "2026-10-19T15:04:10.440405+00:00"
+    },
+    {
+      "path": "sources/review-case-comparison.json",
+      "sha256": "7d8133abc51a641fba9d95db5a093013f7d95b07cc0ca8c147678ac9dd1b52ff",
+      "method": "Second-pass derived evidence from preserved official HTML/XML and judgment HTML; reproducible in _parse.py or full judgment comparison",
+      "recorded_at": "2026-10-19T15:04:10.440526+00:00"
     }
   ],
   "original_intake_sha256": "969d396df803154f486304878503594ac864c95a8f8a99e7f185278298c2b2f6",

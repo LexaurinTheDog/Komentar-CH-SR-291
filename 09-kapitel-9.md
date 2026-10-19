@@ -1,4 +1,4 @@
-# Kommentarkapitel 09 — 9a. Kapitel:117 Trusts
+# Kommentarkapitel 09 — 9. Kapitel: Obligationenrecht; 9a. Kapitel: Trusts
 
 #### 9. Kapitel: Obligationenrecht
 
@@ -52,7 +52,7 @@ Beispiel: Bei einem Dienstleistungsvertrag soll die charakteristische Beratung i
 >
 > 2 Der Konsument kann nicht zum voraus auf den Gerichtsstand an seinem Wohnsitz oder an seinem gewöhnlichen Aufenthalt verzichten.
 
-Der besondere Konsumentengerichtsstand setzt einen Vertrag voraus, der die materiellen und vertriebsbezogenen Voraussetzungen des Art. 120 Abs. 1 erfüllt. Nicht jeder privat geschlossene Vertrag fällt darunter. Der Konsument kann zwischen den bezeichneten Schweizer Gerichten an seinem eigenen oder am Anbieterwohnsitz beziehungsweise ersatzweisen Aufenthaltsort wählen.
+Der besondere Konsumentengerichtsstand setzt einen Vertrag voraus, der die materiellen und vertriebsbezogenen Voraussetzungen des Art. 120 Abs. 1 erfüllt. Nicht jeder privat geschlossene Vertrag fällt darunter. Der Konsument kann in der Schweiz an seinem Wohnsitz oder gewöhnlichen Aufenthalt klagen. Alternativ steht ihm der Schweizer Wohnsitz des Anbieters und, wenn ein solcher fehlt, dessen gewöhnlicher Aufenthalt zur Verfügung. Beim Konsumenten sind Wohnsitz und gewöhnlicher Aufenthalt gleichrangige Alternativen; nur die Anbieteranknüpfung ist abgestuft.
 
 Abs. 2 verbietet den Vorausverzicht auf den eigenen Wohnsitz- oder Aufenthaltsgerichtsstand. Beispiel: Ein Anbieter wirbt im Aufenthaltsstaat eines privaten Kunden und nimmt dort dessen Bestellung entgegen. Bei erfülltem Art. 120 kann eine vorformulierte Klausel den geschützten Schweizer Konsumentengerichtsstand nicht im Voraus beseitigen. Ob die Leistung üblichen Verbrauch betrifft und tatsächlich ausserhalb beruflicher Tätigkeit bezogen wurde, muss dennoch konkret festgestellt werden.
 
@@ -234,7 +234,7 @@ Beispiel: Ein ausländischer Rechteinhaber lizenziert einer Schweizer Gesellscha
 
 Die schweigende Partei darf sich für die Bedeutung ihres Schweigens auf das Recht ihres gewöhnlichen Aufenthaltsstaats berufen. Damit wird verhindert, dass eine fremde Rechtsordnung ihr ohne Weiteres eine vertragliche Zustimmung durch Untätigkeit zurechnet. Die Norm betrifft die Wirkungen des Schweigens, nicht eine freie nachträgliche Rechtswahl für den gesamten Vertrag.
 
-Beispiel: Ein Anbieter sendet einen Vertragsvorschlag ins Ausland und behauptet später, mangels Widerspruchs sei ein Vertrag geschlossen. Die Empfängerin kann sich nach Art. 123 auf das Recht ihres gewöhnlichen Aufenthalts berufen. Ob dieses Schweigen tatsächlich als Zustimmung behandelt, ist nach Art. 16 festzustellen. Ausdrückliche Annahme oder schlüssige aktive Vertragshandlungen sind hiervon zu unterscheiden; ihre rechtliche Beurteilung folgt nicht allein der Schweigensregel.
+Beispiel: Ein Anbieter sendet einen Vertragsvorschlag ins Ausland und behauptet später, mangels Widerspruchs sei ein Vertrag geschlossen. Die Empfängerin kann sich nach Art. 123 auf das Recht ihres gewöhnlichen Aufenthalts berufen. Ob dieses Recht das Schweigen tatsächlich als Zustimmung behandelt, ist nach Art. 16 festzustellen. Ausdrückliche Annahme oder schlüssige aktive Vertragshandlungen sind hiervon zu unterscheiden; ihre rechtliche Beurteilung folgt nicht allein der Schweigensregel.
 
 #### b. Form
 
@@ -758,6 +758,8 @@ Die Anerkennung obligationenrechtlicher Entscheidungen folgt einem differenziert
 
 Beispiel: Ein ausländisches Vertragsurteil stammt vom Erfüllungsort der charakteristischen Leistung. Abs. 2 lit. a verlangt zusätzlich fehlenden Schweizer Beklagtenwohnsitz. Ein Konsumentenurteil erfordert dagegen die Voraussetzungen des Art. 120 Abs. 1. Die richtige Anspruchsqualifikation entscheidet somit über den Anerkennungsweg. Allgemeine Voraussetzungen und Verweigerungsgründe nach Art. 25–27 kommen hinzu; die Norm ist kein einheitlicher Erfolgsorttatbestand.
 
+Die Voraussetzungen unterscheiden sich gerade bei den geschützten Verträgen: Lit. b betrifft Konsumentenansprüche bei erfülltem Art. 120 Abs. 1 und nennt keinen zusätzlichen Ausschluss wegen Schweizer Beklagtenwohnsitzes. Lit. c verlangt beim Arbeits- oder Betriebsort dagegen, dass der Arbeitnehmer seinen Wohnsitz nicht in der Schweiz hatte; dies gilt unabhängig davon, welche Partei beklagt war. Lit. d verlangt den Bezug zum Betrieb gerade der betreffenden Niederlassung. Lit. e und f schützen wiederum den Schweizer Wohnsitz des Beklagten. Für nukleare Ereignisse nennt lit. f zusätzlich den Ort der Kernanlage. Die Zuständigkeitsvoraussetzungen müssen deshalb für jeden Entscheidungsbestandteil einzeln zugeordnet werden.
+
 **Praxisprüfung Schuldverhältnisse:** Anspruch und Partei einzeln qualifizieren; geschützte Verträge und Spezialdelikte vor allgemeinen Regeln prüfen; Schuldner-, Dritt- und Rückgriffsstatut unterscheiden; ausländisches Recht samt Verjährung feststellen; Anerkennungskatalog nicht mit direkten Gerichtsständen verwechseln.
 
 #### 9a. Kapitel: Trusts
@@ -774,7 +776,7 @@ Beispiel: Ein ausländisches Vertragsurteil stammt vom Erfüllungsort der charak
 
 Der Trustbegriff erfasst rechtsgeschäftlich errichtete Trusts im Sinne des bezeichneten Haager Übereinkommens. Die Anwendung des IPRG-Kapitels hängt dabei nicht davon ab, ob der Trust entsprechend Art. 3 der Konvention schriftlich nachgewiesen ist. Die Befreiung von dieser Zugangshürde beseitigt jedoch nicht jede Frage nach Existenz und Inhalt des Trusts.
 
-Beispiel: Eine ausländische Vermögensstruktur wird als Trust bezeichnet, ist aber nur mündlich dokumentiert. Art. 149a verbietet den automatischen Ausschluss allein wegen fehlender Schriftlichkeit. Zunächst sind die materiellen Merkmale eines rechtsgeschäftlichen Trusts festzustellen. Eine gewöhnliche Treuhand oder gesellschaftsrechtliche Beteiligung wird nicht durch ihre Bezeichnung zum Trust. Gerichtsstand, Statut und registerrechtliche Drittwirkung folgen den nachstehenden besonderen Vorschriften.
+Beispiel: Eine ausländische Vermögensstruktur wird als Trust bezeichnet, ist aber nur mündlich errichtet worden. Art. 149a verbietet den automatischen Ausschluss allein wegen fehlender Schriftlichkeit. Zunächst sind die materiellen Merkmale eines rechtsgeschäftlichen Trusts festzustellen. Eine gewöhnliche Treuhand oder gesellschaftsrechtliche Beteiligung wird nicht durch ihre Bezeichnung zum Trust. Gerichtsstand, Statut und registerrechtliche Drittwirkung folgen den nachstehenden besonderen Vorschriften.
 
 #### II. Zuständigkeit
 
@@ -810,7 +812,7 @@ Beispiel: Eine ausländische Vermögensstruktur wird als Trust bezeichnet, ist a
 >
 > 4 Bei Streitigkeiten über die Verantwortlichkeit infolge öffentlicher Ausgabe von Beteiligungspapieren und Anleihen kann ausserdem bei den schweizerischen Gerichten am Ausgabeort geklagt werden. Diese Zuständigkeit kann durch eine Gerichtsstandswahl nicht ausgeschlossen werden.
 
-Die Gerichtsstandswahl in den Trustbestimmungen hat Vorrang, sofern Wahl oder Ermächtigung durch Text nachweisbar ist. Grundsätzlich wirkt sie ausschliesslich; missbräuchlicher Gerichtsstandsentzug bleibt über Art. 5 Abs. 2 begrenzt. Abs. 2 verpflichtet das bezeichnete Gericht bei den genannten kantonalen Beziehungen oder überwiegendem Schweizer Trustvermögen zur Annahme der Zuständigkeit.
+Die Gerichtsstandswahl in den Trustbestimmungen hat Vorrang, sofern Wahl oder Ermächtigung durch Text nachweisbar ist. Grundsätzlich wirkt sie ausschliesslich; missbräuchlicher Gerichtsstandsentzug bleibt über Art. 5 Abs. 2 begrenzt. Abs. 2 verpflichtet das bezeichnete Gericht bei den genannten kantonalen Beziehungen oder einem in der Schweiz befindlichen Grossteil des Trustvermögens zur Annahme der Zuständigkeit.
 
 Ohne gültige ausschliessliche Wahl greifen die Gerichtsstände des Abs. 3. Abs. 4 schützt zusätzlich den Ausgabeort bei bestimmten öffentlichen Finanzierungen gegen Abwahl. Beispiel: Die Trusturkunde benennt Schweizer Gerichte, lässt aber weitere Gerichtsstände ausdrücklich zu. Dann kann Abs. 3 weiterhin Bedeutung haben. Eine beliebige Vereinbarung einzelner Begünstigter ist nicht automatisch eine nach den Trustbestimmungen wirksame Gerichtsstandswahl; Befugnis und Form sind gesondert zu prüfen.
 

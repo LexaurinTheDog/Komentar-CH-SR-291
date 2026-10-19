@@ -114,7 +114,7 @@ Beispiel: Das Gericht verzichtet nach Art. 174a auf einen Hilfskonkurs. Dieser E
 
 *Amtliche Anmerkung:* 149 Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).
 
-Anerkennung löst für Schweizer Schuldnervermögen grundsätzlich Schweizer Konkursfolgen aus. Abs. 2 lässt die Schweizer Fristen mit Veröffentlichung der Anerkennungsentscheidung beginnen. Abs. 3 sieht summarische Durchführung vor; ordentliches Verfahren verlangt ein rechtzeitiges Begehren der ausländischen Verwaltung oder eines privilegiert beteiligten Gläubigers und Sicherheit für voraussichtlich ungedeckte Kosten.
+Anerkennung löst für Schweizer Schuldnervermögen grundsätzlich Schweizer Konkursfolgen aus. Abs. 2 lässt die Schweizer Fristen mit Veröffentlichung der Anerkennungsentscheidung beginnen. Abs. 3 sieht summarische Durchführung vor; ordentliches Verfahren verlangt ein rechtzeitiges Begehren der ausländischen Verwaltung oder eines Gläubigers nach Art. 172 Abs. 1 und Sicherheit für voraussichtlich ungedeckte Kosten.
 
 Beispiel: Ein ausländischer Konkurs wurde Monate vor der Schweizer Anerkennung eröffnet. Für die gewöhnlichen Schweizer Verfahrensfristen zählt grundsätzlich die spätere Veröffentlichung, nicht automatisch das ausländische Eröffnungsdatum. Für Anfechtungsfristen enthält Art. 171 Abs. 2 aber eine Sonderregel. Der Wunsch nach ordentlicher Durchführung muss vor Verteilung geltend gemacht werden; die blosse Aussicht auf komplexe Abklärungen ersetzt Begehren und Kostensicherheit nicht.
 
@@ -166,9 +166,9 @@ Beispiel: Vor der ausländischen Eröffnung wurde ein Vermögenswert übertragen
 
 *Amtliche Anmerkung:* 154 Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).
 
-Der Hilfskonkursplan erfasst nur die gesetzlich bezeichneten Gruppen: pfandgesicherte Forderungen, bestimmte privilegierte Forderungen Schweizer Gläubiger und Verbindlichkeiten einer eingetragenen Schweizer Zweigniederlassung. Ein gewöhnlicher ungesicherter Anspruch wird nicht allein durch Schweizer Gläubigerwohnsitz in den Plan aufgenommen. Abs. 2 beschränkt entsprechend die Kollokationsklagebefugnis.
+Der Hilfskonkursplan erfasst nur die gesetzlich bezeichneten Gruppen: pfandgesicherte Forderungen, nicht pfandgesicherte privilegierte Forderungen von Gläubigern mit Wohnsitz in der Schweiz und Verbindlichkeiten einer eingetragenen Schweizer Zweigniederlassung. Ein gewöhnlicher ungesicherter Anspruch wird nicht allein durch Schweizer Gläubigerwohnsitz in den Plan aufgenommen. Abs. 2 beschränkt entsprechend die Kollokationsklagebefugnis.
 
-Abs. 3 verhindert doppelte Befriedigung durch Anrechnung ausländischer Teilerlöse nach Kostenabzug. Beispiel: Ein Schweizer Gläubiger hat im ausländischen Verfahren bereits eine Quote erhalten und verlangt zusätzlich Teilnahme im Hilfskonkurs. Zuerst ist seine Kategorie nach Abs. 1 zu prüfen, danach die Anrechnung. Für andere Schweizer Forderungen bleiben die Schutzmechanismen beim Überschuss oder Verzicht nach Art. 173 und 174a relevant.
+Abs. 3 verhindert doppelte Befriedigung durch Anrechnung ausländischer Teilerlöse nach Kostenabzug. Beispiel: Ein Gläubiger mit Wohnsitz in der Schweiz hat im ausländischen Verfahren bereits eine Quote erhalten und verlangt zusätzlich Teilnahme im Hilfskonkurs. Zuerst ist seine Kategorie nach Abs. 1 zu prüfen, danach die Anrechnung. Für andere Schweizer Forderungen bleiben die Schutzmechanismen beim Überschuss oder Verzicht nach Art. 173 und 174a relevant.
 
 #### 4. Verteilung
 
@@ -184,7 +184,7 @@ Abs. 3 verhindert doppelte Befriedigung durch Anrechnung ausländischer Teilerl�
 >
 > 3 Für die Anerkennung des ausländischen Kollokationsplanes ist das schweizerische Gericht zuständig, welches das ausländische Konkursdekret anerkannt hat. Es überprüft insbesondere, ob die Forderungen von Gläubigern mit Wohnsitz in der Schweiz im ausländischen Kollokationsplan angemessen berücksichtigt worden sind. Diese Gläubiger werden angehört.
 
-Ein Überschuss nach Befriedigung der besonders berücksichtigten Gläubiger darf erst nach Anerkennung des ausländischen Kollokationsplans an die ausländische Verwaltung oder Berechtigte herausgegeben werden. Zuständig ist das Gericht, das das Konkursdekret anerkannt hat. Es prüft insbesondere die angemessene Berücksichtigung Schweizer Gläubiger und hört diese an.
+Ein Überschuss nach Befriedigung der besonders berücksichtigten Gläubiger darf erst nach Anerkennung des ausländischen Kollokationsplans an die ausländische Verwaltung oder Berechtigte herausgegeben werden. Zuständig ist das Gericht, das das Konkursdekret anerkannt hat. Es prüft insbesondere die angemessene Berücksichtigung der Gläubiger mit Wohnsitz in der Schweiz und hört diese an.
 
 Beispiel: Nach Verwertung Schweizer Massewerte bleibt ein Betrag übrig. Die ausländische Verwaltung kann dessen Überweisung nicht allein mit der anerkannten Konkurseröffnung verlangen. Der ausländische Plan benötigt eine eigene Anerkennungsprüfung. Diese ist kein zweiter allgemeiner Konkurs, sondern dient dem gesetzlich bezeichneten Gläubigerschutz. Scheitert die Anerkennung oder wird der Plan nicht fristgerecht vorgelegt, greift Art. 174 mit einer anderen Verteilungsfolge.
 
@@ -202,7 +202,7 @@ Beispiel: Nach Verwertung Schweizer Massewerte bleibt ein Betrag übrig. Die aus
 
 *Amtliche Anmerkung:* 156 Fassung gemäss Anhang Ziff. 22 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 (AS 1995 1227; BBl 1991 III 1).
 
-Wird der ausländische Kollokationsplan nicht anerkannt, geht der Überschuss an Schweizer Gläubiger der bezeichneten dritten Klasse. Dasselbe gilt bei fehlender Vorlage innerhalb der gerichtlich gesetzten Frist. Die Vorschrift knüpft damit nicht an jede Verzögerung automatisch dieselbe Folge, sondern an die ausdrücklich geregelten Tatbestände.
+Wird der ausländische Kollokationsplan nicht anerkannt, geht der Überschuss an Gläubiger der bezeichneten dritten Klasse mit Wohnsitz in der Schweiz. Dasselbe gilt bei fehlender Vorlage innerhalb der gerichtlich gesetzten Frist. Die Vorschrift knüpft damit nicht an jede Verzögerung automatisch dieselbe Folge, sondern an die ausdrücklich geregelten Tatbestände.
 
 Beispiel: Das Anerkennungsgericht setzt eine Frist zur Vorlage des ausländischen Plans; sie verstreicht ohne entsprechende Einreichung. Der Überschuss ist dann nicht unbegrenzt für eine spätere Auslandsüberweisung zu blockieren, sondern nach Art. 174 zu behandeln. Die besonders berücksichtigten Forderungen nach Art. 172 und die nachgelagerte Überschussgruppe sind auseinanderzuhalten. Die materielle Berechtigung und Klassenzuordnung der einzelnen Forderungen müssen weiterhin geprüft werden.
 
@@ -222,7 +222,7 @@ Beispiel: Das Anerkennungsgericht setzt eine Frist zur Vorlage des ausländische
 
 *Amtliche Anmerkung:* 157 Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).
 
-Auf Antrag der ausländischen Verwaltung kann der Hilfskonkurs entfallen, wenn keine Forderungen nach Art. 172 Abs. 1 angemeldet sind. Bei anderen angemeldeten Schweizer Forderungen verlangt Abs. 2 angemessene ausländische Berücksichtigung und Anhörung. Bedingungen und Auflagen ermöglichen einen fallbezogenen Schutz statt eines automatischen Verzichts.
+Auf Antrag der ausländischen Verwaltung kann der Hilfskonkurs entfallen, wenn keine Forderungen nach Art. 172 Abs. 1 angemeldet sind. Bei anderen angemeldeten Forderungen von Gläubigern mit Wohnsitz in der Schweiz verlangt Abs. 2 angemessene ausländische Berücksichtigung und Anhörung. Bedingungen und Auflagen ermöglichen einen fallbezogenen Schutz statt eines automatischen Verzichts.
 
 Abs. 4 erlaubt danach ausländische Verwaltungsbefugnisse unter Schweizer Recht, einschliesslich Vermögensverbringung und Prozessführung, schliesst aber Hoheitsakte, Zwang und Streitentscheidung aus. Beispiel: Nach Verzicht will die Verwaltung ein Schweizer Guthaben einziehen. Das kann zulässig sein; sie darf jedoch nicht selbst Schweizer Dritte zwangsweise zur Zahlung verpflichten. Anerkennung, Verzicht und konkrete Befugnisausübung sind drei verschiedene Schritte, deren Voraussetzungen dokumentiert werden müssen.
 
@@ -264,7 +264,7 @@ Beispiel: Ein ausländisches Gericht ordnet wegen einer vorinsolvenzlichen Über
 
 *Amtliche Anmerkung:* 160 Fassung des Satzes gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).
 
-Die ausländische behördliche Genehmigung eines Nachlassvertrags oder ähnlichen Verfahrens wird anerkennungsrechtlich in das Insolvenzkapitel eingebunden. Die sinngemässe Anwendung der ausdrücklich genannten Artikel verlangt Anpassung an die Sanierungsstruktur; ein Nachlassverfahren ist nicht in jeder Hinsicht ein Liquidationskonkurs. Schweizer Gläubiger sind anzuhören.
+Die ausländische behördliche Genehmigung eines Nachlassvertrags oder ähnlichen Verfahrens wird anerkennungsrechtlich in das Insolvenzkapitel eingebunden. Die sinngemässe Anwendung der ausdrücklich genannten Artikel verlangt Anpassung an die Sanierungsstruktur; ein Nachlassverfahren ist nicht in jeder Hinsicht ein Liquidationskonkurs. Gläubiger mit Wohnsitz in der Schweiz sind anzuhören.
 
 Beispiel: Ein ausländischer Sanierungsplan bindet Forderungen gegen einen Schuldner mit Schweizer Vermögen. Die Genehmigung ist nicht allein wegen ihres Sanierungscharakters vom Anerkennungsverkehr ausgeschlossen. Zuständigkeit, Verfahrensschutz, Publizität und gegebenenfalls lokale Sicherung müssen anhand der verwiesenen Vorschriften geprüft werden. Art. 175 erklärt nicht jeden privaten Schuldenvergleich für weltweit verbindlich; erforderlich ist der gesetzlich bezeichnete behördliche Genehmigungsakt.
 

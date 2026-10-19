@@ -1,0 +1,1358 @@
+{
+  "total": 193,
+  "notes": [
+    {
+      "official_id": "fn-d284184e22",
+      "text": "1 Dieser Zuständigkeitsumschreibung entspricht Art. 54 Abs. 1 der neuen Bundesverfassung vom 18. April 1999 (SR 101).",
+      "disposition": [
+        "sources/preamble.md"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e39",
+      "text": "2 [BS 1 3]. Dieser Bestimmung entspricht Art. 122 der neuen Bundesverfassung vom 18. April 1999 (SR 101).",
+      "disposition": [
+        "sources/preamble.md"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e59",
+      "text": "3 BBl 1983 I 263",
+      "disposition": [
+        "sources/preamble.md"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e74",
+      "text": "4 Fassung gemäss Anhang Ziff. 1 des BG vom 8. Okt. 1999 über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer, in Kraft seit 1. Juni 2004 (AS 2003 1370; BBl 1999 6128).",
+      "disposition": [
+        "sources/preamble.md"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e195",
+      "text": "5 Fassung des Satzes gemäss Anhang Ziff. 1 des BB vom 22. Dez. 2023 über die Genehmigung und die Umsetzung des Haager Übereinkommens über Gerichtsstandsvereinbarungen, in Kraft seit 1. Jan. 2025 (AS 2024 561; BBl 2023 1460).",
+      "disposition": [
+        "art_5"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e219",
+      "text": "6 Eingefügt durch Anhang Ziff. 1 des BB vom 22. Dez. 2023 über die Genehmigung und die Umsetzung des Haager Übereinkommens über Gerichtsstandsvereinbarungen, in Kraft seit 1. Jan. 2025 (AS 2024 561; BBl 2023 1460).",
+      "disposition": [
+        "art_5"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e246",
+      "text": "7 Aufgehoben durch Anhang Ziff. 2 des BB vom 22. Dez. 2023 über die Genehmigung und die Umsetzung des Haager Übereinkommens über Gerichtsstandsvereinbarungen, mit Wirkung seit 1. Jan. 2025 (AS 2024 561; BBl 2023 1460).",
+      "disposition": [
+        "art_5"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e272",
+      "text": "8 Fassung gemäss Anhang Ziff. 1 des BB vom 22. Dez. 2023 über die Genehmigung und die Umsetzung des Haager Übereinkommens über Gerichtsstandsvereinbarungen, in Kraft seit 1. Jan. 2025 (AS 2024 561; BBl 2023 1460).",
+      "disposition": [
+        "art_6"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e342",
+      "text": "9 Eingefügt durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 (AS 2010 5601; BBl 2009 1777).",
+      "disposition": [
+        "art_8_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e380",
+      "text": "10 Eingefügt durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 (AS 2010 5601; BBl 2009 1777).",
+      "disposition": [
+        "art_8_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e412",
+      "text": "11 Eingefügt durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 (AS 2010 5601; BBl 2009 1777).",
+      "disposition": [
+        "art_8_c"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e502",
+      "text": "14 Fassung gemäss Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221).",
+      "disposition": [
+        "art_10"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e547",
+      "text": "15 Fassung gemäss Anhang des BB vom 20. Dez. 2024 über den Einsatz elektronischer Kommunikationsmittel in grenzüberschreitenden Zivilprozessen, in Kraft seit 1. Jan. 2026 (AS 2025 684; BBl 2024 792).",
+      "disposition": [
+        "art_11"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e572",
+      "text": "16 SR 0.274.12",
+      "disposition": [
+        "art_11"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e592",
+      "text": "17 SR 0.274.132",
+      "disposition": [
+        "art_11"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e636",
+      "text": "19 Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221).",
+      "disposition": [
+        "art_11_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e673",
+      "text": "20 Aufgehoben durch Anhang des BB vom 20. Dez. 2024 über den Einsatz elektronischer Kommunikationsmittel in grenzüberschreitenden Zivilprozessen, mit Wirkung seit 1. Jan. 2026 (AS 2025 684; BBl 2024 792).",
+      "disposition": [
+        "art_11_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e701",
+      "text": "21 Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, (AS 2010 1739; BBl 2006 7221). Fassung gemäss Ziff. II 3 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 (AS 2023 491; BBl 2020 2697).",
+      "disposition": [
+        "art_11_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e736",
+      "text": "22 SR 272",
+      "disposition": [
+        "art_11_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e757",
+      "text": "23 Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221).",
+      "disposition": [
+        "art_11_c"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e784",
+      "text": "24 Aufgehoben durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221).",
+      "disposition": [
+        "art_12"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e951",
+      "text": "25 SR 210",
+      "disposition": [
+        "art_20"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e971",
+      "text": "26 Fassung gemäss Art. 2 des BB vom 20. Dez. 2006 über die Genehmigung und Umsetzung des Haager Übereink. über das auf Trusts anzuwendende Recht und über ihre Anerkennung, in Kraft seit 1. Juli 2007 (AS 2007 2849; BBl 2006 551).",
+      "disposition": [
+        "art_21"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1058",
+      "text": "27 SR 0.142.40",
+      "disposition": [
+        "art_24"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1075",
+      "text": "28 [AS 1980 1718; 1986 2062; 1987 1674; 1990 938, 1587 Art. 3 Abs. 1; 1994 1634 Ziff. I 8.1, 2876; 1995 146 Ziff. II 1, 4356; 1997 2372, 2394; 1998 1582. AS 1999 2262 Art. 120 Bst. a]. Heute: BG vom 26. Juni 1998 (SR 142.31).",
+      "disposition": [
+        "art_24"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1508",
+      "text": "29 Eingefügt durch Ziff. II des BG vom 18. Dez. 2020 (Änderung des Geschlechts im Personenstandsregister), in Kraft seit 1. Jan. 2022 (AS 2021 668; BBl 2020 799).",
+      "disposition": [
+        "art_40_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1585",
+      "text": "30 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_43"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1614",
+      "text": "31 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_43"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1650",
+      "text": "32 Fassung gemäss Ziff. I 5 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 (AS 2013 1035; BBl 2011 2185).",
+      "disposition": [
+        "art_44"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1689",
+      "text": "33 Zweiter Satz eingefügt durch Anhang Ziff. 4 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 (AS 2024 590; BBl 2023 2127).",
+      "disposition": [
+        "art_45"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1712",
+      "text": "34 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_45"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1752",
+      "text": "35 Eingefügt durch Anhang Ziff. 17 des Partnerschaftsgesetzes vom 18. Juni 2004 (AS 2005 5685; BBl 2003 1288). Fassung gemäss Anhang Ziff. 4 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 (AS 2024 590; BBl 2023 2127).",
+      "disposition": [
+        "art_45"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1794",
+      "text": "36 Eingefügt durch Ziff. II 2 des BG vom 7. Okt. 1994 (AS 1995 1126; BBl 1993 I 1169). Fassung gemäss Ziff. I 5 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 (AS 2013 1035; BBl 2011 2185).",
+      "disposition": [
+        "art_45_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1908",
+      "text": "37 SR 0.211.213.01",
+      "disposition": [
+        "art_49"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1928",
+      "text": "38 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_50"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e1986",
+      "text": "39 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_51"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2016",
+      "text": "40 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_51"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2091",
+      "text": "41 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_52"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2120",
+      "text": "42 Eingefügt durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_52"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2284",
+      "text": "43 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_58"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2353",
+      "text": "44 Eingefügt durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_60_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2389",
+      "text": "45 Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 (AS 2016 2313; BBl 2013 4887).",
+      "disposition": [
+        "art_61"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2446",
+      "text": "46 Fassung gemäss Anhang Ziff. 3 des BG vom 21. Juni 2013 (Elterliche Sorge), in Kraft seit 1. Juli 2014 (AS 2014 357; BBl 2011 9077).",
+      "disposition": [
+        "art_63"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2469",
+      "text": "47 Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 (AS 2016 2313; BBl 2013 4887).",
+      "disposition": [
+        "art_63"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2492",
+      "text": "48 Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 (AS 2016 2313; BBl 2013 4887).",
+      "disposition": [
+        "art_63"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2528",
+      "text": "49 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_64"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2558",
+      "text": "50 Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 (AS 2016 2313; BBl 2013 4887).",
+      "disposition": [
+        "art_64"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2581",
+      "text": "51 Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 (AS 2016 2313; BBl 2013 4887).",
+      "disposition": [
+        "art_64"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2630",
+      "text": "52 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_65"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2732",
+      "text": "55 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_65_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2767",
+      "text": "56 Aufgehoben durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_65_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2803",
+      "text": "57 Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_65_c"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e2838",
+      "text": "58 Aufgehoben durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 (AS 2021 747; BBl 2019 8595; 2020 1273).",
+      "disposition": [
+        "art_65_d"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3184",
+      "text": "59 SR 0.211.213.01",
+      "disposition": [
+        "art_83"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3249",
+      "text": "61 Fassung gemäss Art. 15 des BG vom 21. Dez. 2007 über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen, in Kraft seit 1. Juli 2009 (AS 2009 3077; BBl 2007 2595).",
+      "disposition": [
+        "art_85"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3274",
+      "text": "62 SR 0.211.231.011",
+      "disposition": [
+        "art_85"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3290",
+      "text": "63 SR 0.211.232.1",
+      "disposition": [
+        "art_85"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3329",
+      "text": "64 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_86"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3367",
+      "text": "65 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_87"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3392",
+      "text": "66 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_87"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3429",
+      "text": "67 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_88"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3466",
+      "text": "68 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_88_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3503",
+      "text": "69 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_88_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3543",
+      "text": "70 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_89"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3609",
+      "text": "72 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_90"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3634",
+      "text": "73 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_90"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3662",
+      "text": "74 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_91"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3716",
+      "text": "75 Fassung des zweiten Satzes gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_92"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3750",
+      "text": "76 SR 0.211.312.1",
+      "disposition": [
+        "art_93"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3774",
+      "text": "77 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_94"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3816",
+      "text": "78 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_95"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3864",
+      "text": "79 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_95_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3898",
+      "text": "80 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_95_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3971",
+      "text": "81 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_96"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e3996",
+      "text": "82 Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_96"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4028",
+      "text": "83 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_96"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4055",
+      "text": "84 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_96"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4123",
+      "text": "85 Fassung gemäss Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 (AS 2010 5601; BBl 2009 1777).",
+      "disposition": [
+        "art_98"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4151",
+      "text": "86 Eingefügt durch Art. 32 Ziff. 3 des Kulturgütertransfergesetzes vom 20. Juni 2003, in Kraft seit 1. Juni 2005 (AS 2005 1869; BBl 2002 535).",
+      "disposition": [
+        "art_98_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4174",
+      "text": "87 SR 444.1",
+      "disposition": [
+        "art_98_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4320",
+      "text": "88 Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 (AS 2021 33; BBl 2020 233).",
+      "disposition": [
+        "art_105"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4350",
+      "text": "89 Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 (AS 2021 33; BBl 2020 233).",
+      "disposition": [
+        "art_106"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4428",
+      "text": "90 Aufgehoben durch Art. 2 des BB vom 3. Okt. 2008 über die Genehmigung und die Umsetzung des Übereinkommens über die auf bestimmte Rechte an intermediärverwahrten Wertpapieren anzuwendende Rechtsordnung, mit Wirkung seit 1. Jan. 2010 (AS 2009 6579; BBl 2006 9315).",
+      "disposition": [
+        "art_108"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4487",
+      "text": "92 Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 (AS 2021 33; BBl 2020 233).",
+      "disposition": [
+        "art_108_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4510",
+      "text": "93 SR 0.221.556.1",
+      "disposition": [
+        "art_108_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4554",
+      "text": "94 SR 0.221.556.1",
+      "disposition": [
+        "art_108_c"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4600",
+      "text": "95 Fassung gemäss Anhang Ziff. 5 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 (AS 2008 2551; BBl 2006 1).",
+      "disposition": [
+        "art_109"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4633",
+      "text": "96 Eingefügt durch Anhang Ziff. 2 des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 (AS 2020 1003; BBl 2018 591).",
+      "disposition": [
+        "art_109"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4656",
+      "text": "97 Aufgehoben durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), mit Wirkung seit 1. Jan. 2011 (AS 2010 5601; BBl 2009 1777).",
+      "disposition": [
+        "art_109"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4720",
+      "text": "98 Fassung gemäss Anhang Ziff. 5 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 (AS 2008 2551; BBl 2006 1).",
+      "disposition": [
+        "art_111"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4795",
+      "text": "100 Fassung gemäss Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 (AS 2010 5601; BBl 2009 1777).",
+      "disposition": [
+        "art_113"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4867",
+      "text": "101 Eingefügt durch Anhang Ziff. 1 des BG vom 8. Okt. 1999 über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer, in Kraft seit 1. Juni 2004 (AS 2003 1370; BBl 1999 6128).",
+      "disposition": [
+        "art_115"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e4982",
+      "text": "102 SR 0.221.211.4",
+      "disposition": [
+        "art_118"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5180",
+      "text": "103 Fassung gemäss Anhang Ziff. 5 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 (AS 2008 2551; BBl 2006 1).",
+      "disposition": [
+        "art_127"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5233",
+      "text": "104 Fassung gemäss Anhang Ziff. 5 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 (AS 2008 2551; BBl 2006 1).",
+      "disposition": [
+        "art_129"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5262",
+      "text": "105 Aufgehoben durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), mit Wirkung seit 1. Jan. 2011 (AS 2010 5601; BBl 2009 1777).",
+      "disposition": [
+        "art_129"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5295",
+      "text": "106 Fassung gemäss Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 (AS 2022 43; BBl 2007 5397).",
+      "disposition": [
+        "art_130"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5320",
+      "text": "107 SR 0.732.44",
+      "disposition": [
+        "art_130"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5340",
+      "text": "108 Fassung gemäss Anhang 2 Ziff. 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 (AS 2022 491; BBl 2017 6941).",
+      "disposition": [
+        "art_130"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5368",
+      "text": "109 Eingefügt durch Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008 (AS 2022 43; BBl 2007 5397). Fassung gemäss Anhang 2 Ziff. 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 (AS 2022 491; BBl 2017 6941).",
+      "disposition": [
+        "art_130_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5468",
+      "text": "110 SR 0.741.31",
+      "disposition": [
+        "art_134"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5572",
+      "text": "111 Eingefügt durch Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 (AS 2022 43; BBl 2007 5397).",
+      "disposition": [
+        "art_138_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5601",
+      "text": "112 SR 0.732.44",
+      "disposition": [
+        "art_138_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5665",
+      "text": "113 Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 1992 über den Datenschutz, in Kraft seit 1. Juli 1993 (AS 1993 1945; BBl 1988 II 413).",
+      "disposition": [
+        "art_139"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5820",
+      "text": "114 Eingefügt durch Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 (AS 2021 33; BBl 2020 233).",
+      "disposition": [
+        "art_145_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5946",
+      "text": "115 Fassung gemäss Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 (AS 2010 5601; BBl 2009 1777).",
+      "disposition": [
+        "art_149"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e5994",
+      "text": "116 Fassung gemäss Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 (AS 2022 43; BBl 2007 5397).",
+      "disposition": [
+        "art_149"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6058",
+      "text": "118 SR 0.221.371",
+      "disposition": [
+        "art_149_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6139",
+      "text": "119 SR 0.221.371",
+      "disposition": [
+        "art_149_c"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6274",
+      "text": "120 Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008 (AS 2010 1739; BBl 2006 7221). Aufgehoben durch Ziff. II 2 des BG vom 28. Sept. 2012, mit Wirkung seit 1. Mai 2013 (AS 2013 1103; BBl 2011 6873).",
+      "disposition": [
+        "art_151"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6589",
+      "text": "123 SR 221.302",
+      "disposition": [
+        "art_162"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6601",
+      "text": "124 Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 (AS 2007 4791; BBl 2002 3148, 2004 3969).",
+      "disposition": [
+        "art_162"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6637",
+      "text": "125 Fassung gemäss Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS 2004 2617; BBl 2000 4337).",
+      "disposition": [
+        "art_163"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6668",
+      "text": "126 SR 221.301",
+      "disposition": [
+        "art_163"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6685",
+      "text": "127 [AS 1983 931, 1992 288 Anhang Ziff. 24, 1995 1018 1794, 1996 3371 Anhang 2 Ziff. 1, 2001 1439, 2006 2197 Anhang Ziff. 48, 2010 1881 Anhang 1 Ziff. II 18, 2012 3655 Ziff. I 15. AS 2017 3097 Anhang 2 Ziff. I]. Siehe heute: das Landesversorgungsgesetz vom 17. Juni 2016 (SR 531).",
+      "disposition": [
+        "art_163"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6774",
+      "text": "128 Eingefügt durch Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS 2004 2617; BBl 2000 4337).",
+      "disposition": [
+        "art_163_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6818",
+      "text": "129 Eingefügt durch Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS 2004 2617; BBl 2000 4337).",
+      "disposition": [
+        "art_163_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6864",
+      "text": "130 SR 221.301",
+      "disposition": [
+        "art_163_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6890",
+      "text": "131 Eingefügt durch Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS 2004 2617; BBl 2000 4337).",
+      "disposition": [
+        "art_163_c"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6930",
+      "text": "132 Eingefügt durch Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS 2004 2617; BBl 2000 4337).",
+      "disposition": [
+        "art_163_d"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e6985",
+      "text": "133 Fassung gemäss Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS 2004 2617; BBl 2000 4337).",
+      "disposition": [
+        "art_164"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7012",
+      "text": "134 SR 221.301",
+      "disposition": [
+        "art_164"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7024",
+      "text": "135 Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 (AS 2007 4791; BBl 2002 3148, 2004 3969).",
+      "disposition": [
+        "art_164"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7062",
+      "text": "136 Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 (AS 2007 4791; BBl 2002 3148, 2004 3969).",
+      "disposition": [
+        "art_164"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7101",
+      "text": "137 Eingefügt durch Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS 2004 2617; BBl 2000 4337).",
+      "disposition": [
+        "art_164_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7128",
+      "text": "138 SR 221.301",
+      "disposition": [
+        "art_164_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7159",
+      "text": "139 Eingefügt durch Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS 2004 2617; BBl 2000 4337).",
+      "disposition": [
+        "art_164_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7244",
+      "text": "141 Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_166"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7300",
+      "text": "142 SR 281.1",
+      "disposition": [
+        "art_166"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7332",
+      "text": "143 Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_167"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7355",
+      "text": "144 Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_167"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7389",
+      "text": "145 SR 281.1",
+      "disposition": [
+        "art_168"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7402",
+      "text": "146 Ausdruck gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125). Die Änd. wurde im ganzen Text berücksichtigt.",
+      "disposition": [
+        "art_168"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7439",
+      "text": "147 Bezeichnung gemäss nicht veröffentlichtem BRB vom 19. Dez. 1997.",
+      "disposition": [
+        "art_169"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7450",
+      "text": "148 Fassung des Satzes gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_169"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7495",
+      "text": "149 Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_170"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7527",
+      "text": "150 SR 281.1",
+      "disposition": [
+        "art_171"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7547",
+      "text": "151 Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_171"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7585",
+      "text": "152 SR 281.1",
+      "disposition": [
+        "art_172"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7607",
+      "text": "153 Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_172"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7630",
+      "text": "154 Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_172"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7690",
+      "text": "155 SR 281.1",
+      "disposition": [
+        "art_174"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7702",
+      "text": "156 Fassung gemäss Anhang Ziff. 22 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 (AS 1995 1227; BBl 1991 III 1).",
+      "disposition": [
+        "art_174"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7736",
+      "text": "157 Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_174_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7787",
+      "text": "158 Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_174_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7822",
+      "text": "159 Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_174_c"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7862",
+      "text": "160 Fassung des Satzes gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS 2018 3263; BBl 2017 4125).",
+      "disposition": [
+        "art_175"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7898",
+      "text": "161 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_176"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7921",
+      "text": "162 SR 272",
+      "disposition": [
+        "art_176"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7933",
+      "text": "163 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_176"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e7956",
+      "text": "164 Ausdruck gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_176"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8025",
+      "text": "166 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_178"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8056",
+      "text": "167 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_178"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8085",
+      "text": "168 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_179"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8165",
+      "text": "170 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_180"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8198",
+      "text": "171 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_180"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8224",
+      "text": "172 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_180"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8247",
+      "text": "173 Aufgehoben durch Ziff. 1 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_180"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8275",
+      "text": "174 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_180_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8317",
+      "text": "175 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_180_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8353",
+      "text": "176 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_181"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8395",
+      "text": "177 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_182"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8426",
+      "text": "178 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_182"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8464",
+      "text": "179 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_183"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8487",
+      "text": "180 Ausdruck gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163). Die Änd. wurde im ganzen Text berücksichtigt.",
+      "disposition": [
+        "art_183"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8524",
+      "text": "181 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_184"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8547",
+      "text": "182 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_184"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8590",
+      "text": "183 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_185_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8636",
+      "text": "184 Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (Schiedsgerichtsbarkeit. Zuständigkeit), in Kraft seit 1. März 2007 (AS 2007 387; BBl 2006 4677 4691).",
+      "disposition": [
+        "art_186"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8700",
+      "text": "186 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_187"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8770",
+      "text": "188 Ausdruck gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163). Diese Änd. wurde in der in der AS genannten Bestimmung vorgenommen.",
+      "disposition": [
+        "art_189"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8799",
+      "text": "189 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_189_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8873",
+      "text": "191 Ausdruck gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_190"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8921",
+      "text": "192 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_190"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e8949",
+      "text": "193 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_190_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9001",
+      "text": "194 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_191"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9027",
+      "text": "195 SR 173.110",
+      "disposition": [
+        "art_191"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9055",
+      "text": "196 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_192"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9078",
+      "text": "197 SR 0.277.12",
+      "disposition": [
+        "art_192"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9124",
+      "text": "199 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_193"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9147",
+      "text": "200 Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).",
+      "disposition": [
+        "art_193"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9181",
+      "text": "201 SR 0.277.12",
+      "disposition": [
+        "art_194"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9282",
+      "text": "202 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023 (AS 2024 330; BBl 2020 3309). Fassung gemäss Anhang Ziff. 4 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 (AS 2024 590; BBl 2023 2127).",
+      "disposition": [
+        "art_199_a"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9328",
+      "text": "203 Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 (AS 2024 330; BBl 2020 3309).",
+      "disposition": [
+        "art_199_b"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9362",
+      "text": "204 Eingefügt durch Ziff. III des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 (AS 2024 590; BBl 2023 2127).",
+      "disposition": [
+        "art_199_c"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9407",
+      "text": "205 BRB vom 27. Okt. 1988",
+      "disposition": [
+        "art_200"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9436",
+      "text": "206 [BS 2 737; AS 1972 2819 Ziff. II 1; 1977 237 Ziff. II 1; 1986 122 Ziff. II 1]",
+      "disposition": [
+        "annex_u1__lvl_u1__lvl_I"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9476",
+      "text": "207 SR 220",
+      "disposition": [
+        "annex_u1__lvl_u1__lvl_I"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9499",
+      "text": "208 SR 741.01",
+      "disposition": [
+        "annex_u1__lvl_u1__lvl_I"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9517",
+      "text": "209 [BS 2 845; AS 1951 903 Art. 1; 1971 1617; 1992 288 Anhang Ziff. 8. AS 1993 274 Art. 74]",
+      "disposition": [
+        "annex_u1__lvl_u1__lvl_I"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9560",
+      "text": "210 [BS 2 881; AS 1962 459; 1988 1776 Anhang Ziff. I Bst. f; 1992 288 Anhang Ziff. 9; 1995 1784, 5050 Anhang Ziff. 3. AS 2002 1456 Anhang Ziff. 1]",
+      "disposition": [
+        "annex_u1__lvl_u1__lvl_I"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9612",
+      "text": "211 SR 232.16",
+      "disposition": [
+        "annex_u1__lvl_u1__lvl_I"
+      ]
+    },
+    {
+      "official_id": "fn-d284184e9630",
+      "text": "212 Die Änderungen können unter AS 1988 1776 konsultiert werden.",
+      "disposition": [
+        "annex_u1__lvl_u1__lvl_II"
+      ]
+    }
+  ],
+  "missing": [],
+  "duplicates": []
+}

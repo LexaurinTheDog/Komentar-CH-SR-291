@@ -1,4 +1,4 @@
-# Kommentarkapitel 05 — 5. Kapitel: Vormundschaft, Erwachsenenschutz und andere Schutzmassnahmen60
+# Kommentarkapitel 05 — 5. Kapitel: Vormundschaft, Erwachsenenschutz und andere Schutzmassnahmen
 
 #### 5. Kapitel: Vormundschaft, Erwachsenenschutz und andere Schutzmassnahmen
 
@@ -20,7 +20,7 @@
 
 *Amtliche Anmerkung:* 63 SR 0.211.232.1
 
-Für Kindesschutz und Erwachsenenschutz verweist die Norm jeweils auf ein besonderes Haager Übereinkommen. Die Verweisung umfasst Zuständigkeit, anwendbares Recht und Entscheidungsverkehr und verdrängt insoweit einfache Rückschlüsse aus den allgemeinen Familienregeln. Abs. 3 ergänzt eine schweizerische Zuständigkeit bei unerlässlichem Personen- oder Vermögensschutz; die Dringlichkeit und Erforderlichkeit müssen konkret sein.
+Für Kindesschutz und Erwachsenenschutz verweist die Norm jeweils auf ein besonderes Haager Übereinkommen. Die Verweisung umfasst Zuständigkeit, anwendbares Recht und Entscheidungsverkehr und verdrängt insoweit einfache Rückschlüsse aus den allgemeinen Familienregeln. Abs. 3 ergänzt eine schweizerische Zuständigkeit bei unerlässlichem Personen- oder Vermögensschutz; die Unerlässlichkeit dieses Schutzes muss konkret begründet werden. Der Wortlaut verlangt hier nicht zusätzlich in jedem Fall eine besondere Eilbedürftigkeit.
 
 Abs. 4 öffnet die Anerkennung bestimmter Massnahmen aus Nichtvertragsstaaten bei Bezug zum gewöhnlichen Aufenthaltsstaat oder dortiger Anerkennung. Beispiel: Für einen Erwachsenen besteht eine Schutzmassnahme aus einem Nichtvertragsstaat. Ihr Herkunftsort allein schliesst die Anerkennung nicht aus; Abs. 4 ist zu prüfen. Die Norm rechtfertigt aber keine pauschale Gleichstellung aller ausländischen Betreuungsakte. Vertragsgeltung und konkrete Massnahmenart bedürfen gesonderter Prüfung.
 

@@ -1,0 +1,20 @@
+{
+  "stored_source_hashes_checked": 33,
+  "bad_hashes": [],
+  "expected_unique_ids": 249,
+  "parsed_unique_ids": 249,
+  "published_units": 249,
+  "all_official_footnotes_preserved": 193,
+  "unique_chapter_descriptors": 14,
+  "parser_deterministic": true,
+  "checked_artifacts": {
+    "units.jsonl": "0cc533e92df075fe5655bc8428d98d8a5b5b33ec4bc47f98c88ef92a84342c01",
+    "meta.json": "a6103058b4a1f55f9331ed40373d45605c52454b9c61d6878e2c5469854f4d52",
+    "coverage-evidence.json": "470d13ff625ad2852a42eab2e4de981bfc11e47c56e357f34730ea04bc123c66",
+    "completeness-report.json": "fe405ef888bd3f89f662e51f5ca31cd750835242f07d33e886617aed30f19b82",
+    "sources/canonical.md": "e2bb4996c122bcbf0f19a56bac1ab6398fab6ecb00d28ca1675883b30d2a2fd1",
+    "sources/preamble.md": "f3c5e23d7fae24b8ab01dd60b0016a3c08997bf023b93d8ba1b4107b9e515cc4",
+    "sources/editorial-notes.json": "54be7b02368c865efe006dbef4f80ec0b2ae237caebd0cdc809f12c68f53134b"
+  },
+  "ok": true
+}

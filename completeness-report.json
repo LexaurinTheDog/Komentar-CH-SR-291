@@ -59,5 +59,13 @@
     "absence_of_additional_current_annex": "Official XML components/level structure and complete HTML inspected; no second current annex. Historical changes index entries are not additional simultaneous operative annexes."
   },
   "paragraphs_and_lists": "All 497 paragraph elements and 146 item elements are represented within their parent articles/annex; character-level XML comparison confirms no omitted or duplicated operative content.",
-  "ok": true
+  "ok": true,
+  "editorial_notes": {
+    "official_count": 193,
+    "article_annex_count": 189,
+    "preamble_count": 4,
+    "preamble_path": "sources/preamble.md",
+    "full_register": "sources/editorial-notes.json",
+    "missing": []
+  }
 }

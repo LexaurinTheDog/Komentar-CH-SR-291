@@ -140,7 +140,7 @@ Beispiel: Nach Ernennung wird eine zuvor nicht erkennbare enge wirtschaftliche B
 
 *Amtliche Anmerkung:* 174 Eingefügt durch Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 (AS 2020 4179; BBl 2018 7163).
 
-Mangels abweichender Vereinbarung ist das laufende Ablehnungsgesuch schriftlich und begründet binnen 30 Tagen ab tatsächlicher oder bei gehöriger Aufmerksamkeit möglicher Kenntnis an das betroffene Mitglied zu richten und den übrigen mitzuteilen. Die staatliche Ablehnung kann innerhalb weiterer gesetzlich bestimmter 30 Tage seit Einreichung verlangt werden; diese Anknüpfung darf nicht mit einem späteren schiedsgerichtlichen Zwischenbescheid verwechselt werden.
+Mangels abweichender Vereinbarung ist das laufende Ablehnungsgesuch schriftlich und begründet binnen 30 Tagen ab tatsächlicher oder bei gehöriger Aufmerksamkeit möglicher Kenntnis an das betroffene Mitglied zu richten und den übrigen mitzuteilen. Die staatliche Ablehnung kann in einer eigenen Frist von 30 Tagen seit Einreichung verlangt werden; diese Anknüpfung darf nicht mit einem späteren schiedsgerichtlichen Zwischenbescheid verwechselt werden.
 
 Abs. 3 erlaubt grundsätzlich die Fortführung einschliesslich Entscheidung mit dem abgelehnten Mitglied. Beispiel: Eine Partei entdeckt einen möglichen Interessenkonflikt. Sie muss Kenntnisdatum, Gesuchseinreichung und staatlichen Antrag getrennt überwachen. Das Gesuch bewirkt keine automatische Unterbrechung. Eine abweichende Parteiverfahrensregel ist zu prüfen; das staatliche Gericht entscheidet nach Abs. 2 endgültig.
 
@@ -236,7 +236,7 @@ Beispiel: Ein Schiedsgericht untersagt die Veräusserung einer streitigen Sache,
 
 Das Schiedsgericht erhebt grundsätzlich selbst Beweis. Staatliche Rechtshilfe kann am Schiedssitz beantragt werden, wenn sie für die Beweisführung erforderlich ist; eine Partei benötigt dafür die Zustimmung des Schiedsgerichts. So wird verhindert, dass einzelne Parteien ohne Verfahrenskoordination parallele staatliche Beweiserhebungen betreiben.
 
-Abs. 3 ordnet staatliches Eigenrecht an, lässt auf Antrag aber andere Verfahrensformen berücksichtigen. Beispiel: Eine entscheidungserhebliche Beweisaufnahme erfordert staatliche Mitwirkung gegenüber einer nicht kooperierenden Drittperson. Das Schiedsgericht oder die zustimmungsberechtigte Partei kann Hilfe beantragen. Die staatliche Stelle wird dadurch nicht zum Sachentscheidungsgericht des Schiedsstreits. Für Beweisaufnahme in der Schweiz bei ausländischem Schiedssitz gilt die besondere Ortsanknüpfung nach Art. 185a Abs. 2.
+Abs. 3 ordnet staatliches Eigenrecht an, lässt auf Antrag aber andere Verfahrensformen berücksichtigen. Beispiel: Eine entscheidungserhebliche Beweisaufnahme erfordert staatliche Mitwirkung gegenüber einer nicht kooperierenden Drittperson. Das Schiedsgericht oder die mit Zustimmung des Schiedsgerichts handelnde Partei kann Hilfe beantragen. Die staatliche Stelle wird dadurch nicht zum Sachentscheidungsgericht des Schiedsstreits. Für Beweisaufnahme in der Schweiz bei ausländischem Schiedssitz gilt die besondere Ortsanknüpfung nach Art. 185a Abs. 2.
 
 #### 4. Weitere Mitwirkung des staatlichen Richters
 
@@ -264,7 +264,7 @@ Beispiel: Im laufenden Schweizer Schiedsverfahren wird eine staatliche Unterstü
 
 Für ausländische Schiedsverfahren richtet sich Schweizer Hilfe nach dem lokalen Vollzugs- beziehungsweise Beweisort. Sicherungsmassnahmen können beim Gericht des vorgesehenen Vollstreckungsorts beantragt werden; für Beweisaufnahme gilt deren Schweizer Ort. Beim Parteiantrag auf Beweishilfe ist die Zustimmung des Schiedsgerichts erforderlich. Die verwiesenen Absätze sichern die staatliche Anwendung eigenen Rechts und die dortigen Schutzmechanismen.
 
-Beispiel: Ein ausländisches Schiedsgericht benötigt die Befragung einer Person in Zürich. Es oder eine zustimmungsberechtigte Partei kann die örtliche staatliche Hilfe anrufen. Der ausländische Schiedssitz schliesst diese Schweizer Unterstützung nicht aus. Daraus folgt aber keine Übernahme der Hauptsache oder Rechtsmittelkontrolle durch Schweizer Gerichte. Art. 11 und die einschlägigen Rechtshilferegeln bleiben für den konkreten Vollzug zu berücksichtigen.
+Beispiel: Ein ausländisches Schiedsgericht benötigt die Befragung einer Person in Zürich. Es oder eine mit Zustimmung des Schiedsgerichts handelnde Partei kann die örtliche staatliche Hilfe anrufen. Der ausländische Schiedssitz schliesst diese Schweizer Unterstützung nicht aus. Daraus folgt aber keine Übernahme der Hauptsache oder Rechtsmittelkontrolle durch Schweizer Gerichte. Art. 11 und die einschlägigen Rechtshilferegeln bleiben für den konkreten Vollzug zu berücksichtigen.
 
 #### VII. Zuständigkeit
 
@@ -419,6 +419,8 @@ BGE 150 III 238, E. 3.1–3.4 und 4.6, trennt eine nicht frei überprüfbare Anw
 Revision erfasst nachträglich entdeckte erhebliche Tatsachen oder Beweise trotz gehöriger Aufmerksamkeit, strafbare Einwirkung und spät entdeckte Unabhängigkeitsgründe ohne anderes Rechtsmittel. Neu entstandene Tatsachen und Beweise sind bei lit. a ausgeschlossen. Es gelten 90 Tage seit Entdeckung und grundsätzlich zehn Jahre seit Rechtskraft; die absolute Grenze gilt nicht für lit. b.
 
 BGE 151 III 586 vom 26. Juni 2025, E. 5.1–5.3, verlangt bei strafbarer Einwirkung einen konkreten Kausalzusammenhang zum Entscheidungsdispositiv. Allgemeine Vorwürfe der Unehrlichkeit ersetzen ihn nicht. Beispiel: Ein Strafurteil betrifft nur einen von mehreren selbständig tragenden Erwerbsvorgängen. Die Revisionspartei muss zeigen, weshalb gerade der Schiedsentscheid dadurch nachteilig beeinflusst wurde. Siehe [Entscheidungskarte](cases/BGE-151-III-586.md). Revision ist keine neue Beweiswürdigungsinstanz.
+
+Für lit. b genügt ein strafrechtlicher Verdacht nicht. Nach BGE 151 III 586, E. 5.1, muss grundsätzlich ein das separate Strafverfahren abschliessender Entscheid die objektiven Merkmale eines Verbrechens oder Vergehens erkennen lassen; eine Verurteilung ist dabei nicht zwingend. Bei nicht durchführbarem Strafverfahren eröffnet das Gesetz den anderen Beweisweg. Ein ausländischer Strafentscheid ist unter den dort bezeichneten Verfahrensgarantien verwertbar und bindet das Schiedsgericht nicht automatisch an jede strafgerichtliche Würdigung. Der nachzuweisende tatsächliche Einfluss muss gerade das nachteilige Dispositiv des zur Revision gestellten Schiedsentscheids betreffen.
 
 #### 3. Einzige Rechtsmittelinstanz
 

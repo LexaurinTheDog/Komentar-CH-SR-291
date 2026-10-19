@@ -1,4 +1,4 @@
-# Kommentarkapitel 07 — 7a. Kapitel:91 Intermediärverwahrte Wertpapiere
+# Kommentarkapitel 07 — 7. Kapitel: Sachenrecht; 7a. Kapitel: Intermediärverwahrte Wertpapiere
 
 #### 7. Kapitel: Sachenrecht
 
