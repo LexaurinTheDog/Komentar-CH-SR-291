@@ -1,0 +1,13 @@
+# Prüfstand des Arbeitsentwurfs
+
+Bearbeitung und technische Eigenkontrolle am 19. Oktober 2026. **Dies ist kein unabhängiger Zweitprüfungsbericht und keine externe fachliche Freigabe.** Eine frische zweite inhaltliche Durchsicht ist noch ausstehend.
+
+Alle 249 Einheiten der verifizierten konsolidierten Fassung wurden kommentiert. Der amtliche Bestand wird unabhängig im [XML-Kennungsnachweis](coverage-evidence.json) ermittelt. [Vollständigkeitsbericht](completeness-report.json), [Wortlaut- und Qualitätsprüfung](quality-report.json) und [strikte Build-Validierung](validation.json) dokumentieren die technischen Ergebnisse. Der [Quellennachweis](SOURCES.md) beschreibt tatsächliche Abfragen und Grenzen.
+
+Im Autorenlauf wurden folgende konkrete Punkte kontrolliert und korrigiert: aufgehobene Artikel ohne Wortlaut bleiben leer statt mit erfundenem Text gefüllt; verschachtelte Buchstaben-/Ziffernlisten werden einmalig und in Reihenfolge wiedergegeben; das Inkrafttretensdatum bei Art. 200 ist als amtliche Metainformation vom Normtext getrennt; Namens-, Geschlechts-, Abstammungs-, Unterhalts- und Schutzfragen werden unterschieden; erbrechtliche Rechts- und Zuständigkeitswahl werden nicht gleichgesetzt; Konkursanerkennung, Hilfskonkurs, Überschuss und Verzicht werden getrennt erläutert; Schiedsrechtsmittel werden nicht als allgemeine Sachberufung beschrieben.
+
+Die zwei Entscheidungskarten wurden anhand vollständiger Urteile erstellt. Bei BGE 151 III 586 wurde das pauschale Datum im lokalen BGE-Metadatensatz durch den tatsächlichen Urteilskopf überprüft. Die behauptete strafbare Einwirkung wird von der gerichtlichen Kausalitätsbeurteilung getrennt. Bei BGE 150 III 238 wird aus der erfolglosen Ordre-public-Rüge keine allgemeine Zulässigkeit verspäteter Erläuterung abgeleitet; nicht entschiedene weitere Rügen werden nicht als gerichtliche Feststellungen ausgegeben.
+
+Die technische Kontrolle umfasst jeden Einheiteninhalt gegen amtliches XML, alle Kennungen, doppelte Kommentarblöcke, fehlende Kommentare, substantielle identische Absätze und lokale Verweise in Buch- und Entscheidungskarten. Eine Prüfung auf Textwiederholung und Mindestumfang kann juristische Tiefe nicht beweisen. Ausreichende Länge wird deshalb nicht als Qualitätsfreigabe bezeichnet.
+
+Verbleibende Grenzen: selektive Rechtsprechung mit Schwerpunkt Schiedsrecht; keine Vollkommentierung der verwiesenen Staatsverträge und ausländischen Sachrechte; keine Rekonstruktion der im konsolidierten Anhang II ausgelassenen historischen Fremdgesetzänderungen; unabhängige inhaltliche Zweitprüfung offen. Die genannten Grenzen sind offengelegt und werden nicht als erledigte externe Prüfung ausgegeben.

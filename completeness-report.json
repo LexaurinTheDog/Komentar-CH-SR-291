@@ -1,0 +1,17 @@
+{
+  "expected_count": 249,
+  "parsed_count": 249,
+  "missing": [],
+  "unexpected": [],
+  "duplicates": [],
+  "empty_slots": [
+    "art_12",
+    "art_65_b",
+    "art_65_d",
+    "annex_u1__lvl_u1__lvl_II"
+  ],
+  "source_sha256": "f27fa4861ec625cadd9454f99556912cbc2caa46a4092f29f46701904094045d",
+  "xml_sha256": "3651f38282edcb4c40feb1527588ca9df531e262b2472bd9300fda00a6eee680",
+  "method": "HTML article elements and annex operative levels independently reconciled to AKN article/level eId; paragraph/list blocks preserved, footnotes separated; ellipsis slots retained.",
+  "ok": true
+}

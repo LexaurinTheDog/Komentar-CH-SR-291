@@ -1,0 +1,210 @@
+{
+  "authoring_start": "2026-10-19T14:27:23.174736+00:00",
+  "decisive_date": "2026-10-19",
+  "checks": [
+    {
+      "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20260101/de/html/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20260101-de-html-3.html",
+      "accessed_at": "2026-10-19T14:27:23.174773+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "f27fa4861ec625cadd9454f99556912cbc2caa46a4092f29f46701904094045d",
+      "path": "sources/fedlex-20260101.html",
+      "bytes": 409053,
+      "format_validation": "HTML legislation with 247 article elements and operative annex, not bot/interstitial page"
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20260101-de-xml-3.xml",
+      "path": "sources/fedlex-20260101.xml",
+      "accessed_at": "2026-10-19T14:28:08.935131+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "3651f38282edcb4c40feb1527588ca9df531e262b2472bd9300fda00a6eee680",
+      "bytes": 337851,
+      "format_validation": "Valid Akoma Ntoso XML; authoritative German act SR 291, 247 article elements"
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20250101/de/html/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20250101-de-html-10.html",
+      "path": "sources/fedlex-20250101.html",
+      "accessed_at": "2026-10-19T14:28:13.311956+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "4b9a9c0e28ab0538be55286be63844b2b98ea38c987ac5b66309cdcdede53320",
+      "bytes": 406427,
+      "format_validation": "HTML legislation with 247 article elements and operative annex, not bot/interstitial page"
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/de",
+      "path": "sources/current.html",
+      "accessed_at": "2026-10-19T14:37:56.844791+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "39d0c4d52bf6c1140a7d5b1848e1a625375891aecc22869089e1361f1fd8b3be",
+      "bytes": 77151,
+      "format_validation": "HTML parsed; dynamic Fedlex shell is supplemented by Firecrawl rendered extraction, not used as statutory text"
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/de/history",
+      "path": "sources/history.html",
+      "accessed_at": "2026-10-19T14:37:59.168723+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "39d0c4d52bf6c1140a7d5b1848e1a625375891aecc22869089e1361f1fd8b3be",
+      "bytes": 77151,
+      "format_validation": "HTML parsed; dynamic Fedlex shell is supplemented by Firecrawl rendered extraction, not used as statutory text"
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/de/changes",
+      "path": "sources/changes.html",
+      "accessed_at": "2026-10-19T14:37:59.632302+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "39d0c4d52bf6c1140a7d5b1848e1a625375891aecc22869089e1361f1fd8b3be",
+      "bytes": 77151,
+      "format_validation": "HTML parsed; dynamic Fedlex shell is supplemented by Firecrawl rendered extraction, not used as statutory text"
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/eli/oc/2025/684/de",
+      "path": "sources/amendment-2025-684.html",
+      "accessed_at": "2026-10-19T14:38:00.137657+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "39d0c4d52bf6c1140a7d5b1848e1a625375891aecc22869089e1361f1fd8b3be",
+      "bytes": 77151,
+      "format_validation": "HTML parsed; dynamic Fedlex shell is supplemented by Firecrawl rendered extraction, not used as statutory text"
+    },
+    {
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=atf://150-III-238:de",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
+      "accessed_at": "2026-10-19T14:38:00.563454+00:00"
+    },
+    {
+      "path": "sources/fedlex-current-rendered.md",
+      "method": "Firecrawl rendered webpage extraction",
+      "sha256": "e9f6d8ee3fa5794561db3adb3234699924341903af360eb33f510e9ffbbd0be7",
+      "captured_file_mtime": "2026-10-19T14:38:00+00:00"
+    },
+    {
+      "path": "sources/fedlex-history-rendered.md",
+      "method": "Firecrawl rendered webpage extraction",
+      "sha256": "f39e43f6ad6ced5b28cd677834a78f075f049ab5ba2aaca0ae02df7fb23c01c4",
+      "captured_file_mtime": "2026-10-19T14:38:00+00:00"
+    },
+    {
+      "path": "sources/fedlex-changes-rendered.md",
+      "method": "Firecrawl rendered webpage extraction",
+      "sha256": "f23982066bf8e947f7e160dbe88ae9ac6c273e1d886722aef999c8e1f5228403",
+      "captured_file_mtime": "2026-10-19T14:38:00+00:00"
+    },
+    {
+      "path": "sources/as-2025-684-rendered.md",
+      "method": "Firecrawl rendered webpage extraction",
+      "sha256": "710a4a0a35a26e18e4222f1ac9020f97f6bc388466812679c13476205aaa0556",
+      "captured_file_mtime": "2026-10-19T14:38:00+00:00"
+    },
+    {
+      "path": "sources/bge-150-iii-238-rendered.md",
+      "method": "Firecrawl rendered webpage extraction",
+      "sha256": "24fa44c7867708f4f443b2a4a70c1fe1451a0cca0bdb97b105ecdd846b4edd02",
+      "captured_file_mtime": "2026-10-19T14:38:00+00:00"
+    },
+    {
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023",
+      "path": "sources/4A-603-2023-full.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=ISO-8859-1",
+      "accessed_at": "2026-10-19T14:51:03.460093+00:00",
+      "sha256": "7eefb3303f6b57a3cba86874508784cbdee984a03712cc6239c81fffcb910f1e",
+      "bytes": 50713,
+      "format_validation": "HTML full judgment; docket verified in body; curl verified TLS using system trust"
+    },
+    {
+      "path": "sources/4A-603-2023-local-corpus.md",
+      "sha256": "21aa5bae57d50c858bd834e41095ca917e4a45d672de11c8373f66eefb3f9d6f",
+      "method": "local national judicial corpus full text",
+      "captured_at": "2026-10-19T14:51:03.463962+00:00"
+    },
+    {
+      "path": "sources/4A-603-2023-full-rendered.md",
+      "sha256": "2f3a63c23102c47ca24449bd4717b0fe493b6ebd50a03bb1c49cfbf624508a88",
+      "method": "Firecrawl rendered official full judgment",
+      "captured_at": "2026-10-19T14:51:03.465393+00:00"
+    },
+    {
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://26-06-2025-4A_528-2024",
+      "path": "sources/4A-528-2024-full.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=ISO-8859-1",
+      "accessed_at": "2026-10-19T14:51:05.196975+00:00",
+      "sha256": "13258da7c39cfc525b285d9ae97b714360e97bc4a1b0bf9939315082c7481e59",
+      "bytes": 46838,
+      "format_validation": "HTML full judgment; docket verified in body; curl verified TLS using system trust"
+    },
+    {
+      "path": "sources/4A-528-2024-local-corpus.md",
+      "sha256": "f1f875bf90fa23366be553cd67e2129404ccc5cc0e83e06fec8fb003f2d6694d",
+      "method": "local national judicial corpus full text",
+      "captured_at": "2026-10-19T14:51:05.198666+00:00"
+    },
+    {
+      "path": "sources/4A-528-2024-full-rendered.md",
+      "sha256": "71b2a2f9dba6fb434a6e442bdfdd46f00b35f3a207ea00e49c665d9a61f589fa",
+      "method": "Firecrawl rendered official full judgment",
+      "captured_at": "2026-10-19T14:51:05.199480+00:00"
+    },
+    {
+      "path": "sources/bge-151-iii-586-rendered.md",
+      "sha256": "b4a62234416c07ee6c67e74ade4fa13c6257e233bf485b71744c2ae8ddf96a3f",
+      "method": "Firecrawl official BGE publication",
+      "captured_at": "2026-10-19T14:51:05.200281+00:00"
+    },
+    {
+      "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2025/684/de/xml/fedlex-data-admin-ch-eli-oc-2025-684-de-xml.xml",
+      "path": "sources/as-2025-684.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "accessed_at": "2026-10-19T14:51:05.662737+00:00",
+      "sha256": "431042e4c8040a299a41f8362423a0a62b5a83e40079b4c64dee4402d2af0a1b",
+      "bytes": 14188,
+      "format_validation": "Valid Akoma Ntoso amendment and commencement publication"
+    },
+    {
+      "path": "sources/case-search.json",
+      "sha256": "6e105f00743d6e2c4a061fe7454bf221b3b68989e9f2ac52601762e266236deb",
+      "method": "Derived or preserved evidence; see associated source provenance",
+      "recorded_at": "2026-10-19T14:53:54.933274+00:00"
+    },
+    {
+      "path": "sources/research-log.json",
+      "sha256": "96124d18590157fb987d47fe2300fb3c4aafa6395b0553a6b0aebbed34c5ffd0",
+      "method": "Derived or preserved evidence; see associated source provenance",
+      "recorded_at": "2026-10-19T14:53:54.933585+00:00"
+    },
+    {
+      "path": "sources/canonical.md",
+      "sha256": "e2bb4996c122bcbf0f19a56bac1ab6398fab6ecb00d28ca1675883b30d2a2fd1",
+      "method": "Derived or preserved evidence; see associated source provenance",
+      "recorded_at": "2026-10-19T14:53:54.933926+00:00"
+    },
+    {
+      "path": "sources/intake-original.md",
+      "sha256": "969d396df803154f486304878503594ac864c95a8f8a99e7f185278298c2b2f6",
+      "method": "Derived or preserved evidence; see associated source provenance",
+      "recorded_at": "2026-10-19T14:53:54.934216+00:00"
+    },
+    {
+      "path": "sources/change-map.json",
+      "sha256": "3f5c8b6eff0cd9f200bd42222bce9d4130178481ffa15507d938cc73439d45fd",
+      "method": "Derived or preserved evidence; see associated source provenance",
+      "recorded_at": "2026-10-19T14:53:54.934316+00:00"
+    }
+  ],
+  "original_intake_sha256": "969d396df803154f486304878503594ac864c95a8f8a99e7f185278298c2b2f6",
+  "effective_version": {
+    "applicability_date": "2026-01-01",
+    "initial_entry_into_force": "1989-01-01",
+    "evidence": "AKN FRBRdate jolux:dateApplicability; Fedlex current version list and history; amendment AS 2025 684 and consolidated article footnotes confirm 2026 commencement",
+    "checked_on": "2026-10-19",
+    "later_version_found": false,
+    "limitation": "Fedlex rendered metadata shows dates shifted back one day in some fields; authoritative XML and publication text used for dates."
+  }
+}

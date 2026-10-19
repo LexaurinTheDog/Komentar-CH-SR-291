@@ -1,0 +1,257 @@
+[Hauptinhalt](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023#maincontent)
+
+[![Homepage](https://www.bger.ch/files/live/sites/bger/files/images/schweizerisches-bundesgericht-logo.png)](https://www.bger.ch/de/index.htm "Homepage")[![Homepage](https://www.bger.ch/files/live/sites/bger/files/images/de/mobile-schweizerisches-bundesgericht-logo.gif)](https://www.bger.ch/de/index.htm "Homepage")
+
+menu
+
+Changer la langue
+
+- [F](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023 "Français")
+
+- [I](https://www.bger.ch/ext/eurospider/live/it/php/aza/http/index.php?lang=it&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023 "Italiano")
+
+
+Suche aktivieren
+
+- [Rechtsprechung](https://www.bger.ch/jurisdiction-recht)
+
+- [Rechtsprechung (gratis)](https://www.bger.ch/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht.htm)
+
+  - [BGE und EGMR-Entscheide](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/start_de.html)
+  - [Liste der Neuheiten](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index_aza.php?lang=de&mode=index&search=false)
+  - [Weitere Urteile ab 2000](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de)
+
+- [Leitentscheide (BGE)](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de)
+- [Expertensuche für Abonnenten](https://www.bger.ch/ext/eurospider/live/de/php/login/http/main.php?lang=de)
+- [Abonnement RSS](https://www.bger.ch/home/juridiction/feed-rss.html)
+
+Wichtiger Hinweis:
+
+Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+
+[Zurück zur Einstiegsseite](https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?type=start&lang=de "Zurück zur Einstiegsseite") [Drucken](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023#)
+
+[Grössere Schrift](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza%3A%2F%2F25-03-2024-4A_603-2023&zoom=YES& "Grössere Schrift")
+
+### Navigation
+
+[Neue Suche](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=simple_query "")
+
+[ähnliche Leitentscheide suchen](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=simple_similar_documents&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&docid=2024-03-25-4A_603-2023&azaclir=clir)
+
+[ähnliche Urteile ab 2000 suchen](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=simple_similar_documents&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&docid=2024-03-25-4A_603-2023)
+
+Bundesgericht
+
+Tribunal fédéral
+
+Tribunale federale
+
+Tribunal federal
+
+![](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/img/doc/b65e75e17393fd2347b82d9e1271ba29b9365e425be5b75e50d35ac6070f773a.png)
+
+**4A\_603/2023**
+
+**Urteil vom 25. März 2024**
+
+**I. zivilrechtliche Abteilung**
+
+Besetzung
+
+Bundesrichterin Jametti, Präsidentin,
+
+Bundesrichterinnen Hohl, Kiss,
+
+Bundesrichter Rüedi,
+
+Bundesrichterin May Canellas,
+
+Gerichtsschreiber Leemann.
+
+Verfahrensbeteiligte
+
+A.\_\_\_\_\_\_\_\_,
+
+vertreten durch
+
+Rechtsanwälte Dr. Nicolas Herzog und Dr. Tobias Aggteleky,
+
+Beschwerdeführer,
+
+_gegen_
+
+1\. B.\_\_\_\_\_\_\_\_,
+
+2\. C.\_\_\_\_\_\_\_\_,
+
+beide vertreten durch
+
+Rechtsanwältin Dr. Stefanie Pfisterer,
+
+Beschwerdegegner.
+
+Gegenstand
+
+Internationale Schiedsgerichtsbarkeit; Erläuterung, rechtliches Gehör,
+
+Beschwerde gegen den Erläuterungsentscheid des Rabbinischen Schiedsgerichts mit Sitz in Zürich
+
+vom 27. November 2023.
+
+**Sachverhalt:**
+
+**A.**
+
+A.\_\_\_\_\_\_\_\_ (Beklagter, Beschwerdeführer) einerseits und B.\_\_\_\_\_\_\_\_ und C.\_\_\_\_\_\_\_\_ (Kläger, Beschwerdegegner) andererseits standen sich vor einem Rabbinischen Schiedsgericht mit Sitz in Zürich in einer vermögensrechtlichen Angelegenheit gegenüber, dies gestützt auf folgende Schiedsklausel (in der freien, nicht bestrittenen Übersetzung des Beschwerdeführers vom Hebräischen ins Deutsche) :
+
+"Wir, die Parteien \[...\] haben einen Händel mit Geldforderung bezüglich D.\_\_\_\_\_\_\_\_ Invest und haben unter uns beschlossen, dass zwischen uns gerichtet werde über alle diese Forderungen durch die folgenden (Schieds) Richter: \[...\] Und wir verpflichten uns und (unter Verpfändung) unser (es) Vermögen (s) zur Einhaltung all dessen was sie entscheiden (werden), sei dies als (hartes) Urteil oder sei dies als Kompromiss (welcher sich aber an einem harten Urteil anlehnt) und selbst bei einem Irrtum. Wir haben kein Recht, dieses Urteil anzufechten, weder bei (anderen) jüdischen Gerichten noch bei weltlichen Gerichten. All dies geschieht aus freiem Willen (und unter den hiefür nach jüdischem Gesetz geregelten Prozeduren), und unter Berücksichtigung der jüdischen und weltlichen Gesetze."
+
+Am 12. Januar 2023 fällte das Schiedsgericht sein Urteil.
+
+Dagegen erhob der Beklagte Beschwerde an das Bundesgericht. Dieses wies die Beschwerde mit Urteil vom 12. Mai 2023 ab, soweit es darauf eintrat (Verfahren 4A\_41/2023; [BGE 149 III 338](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-149-III-338#page338)). Es konnte den Rügen des Beschwerdeführers von vornherein nicht stattgeben, weil der angefochtene Schiedsentscheid nicht (schriftlich) begründet war und die entsprechenden tatsächlichen Feststellungen zur Streitsache und zum Verfahrensablauf fehlten.
+
+**B.**
+
+Am 27. November 2023 erliess das Rabbinische Schiedsgericht mit Sitz in Zürich einen Erläuterungsentscheid, dies "nach Einblick in das Urteil des Bezirksgerichts Zürich vom 29. September 2023 sowie dem \[ _sic_\] Gesuch des klägerischen Vertreters vom 12. Oktober 2023 um Erläuterung". Der Erläuterungsentscheid enthält zwei Vorbemerkungen und besteht in einem umfangmässig erheblich erweiterten Dispositiv. In der ersten Vorbemerkung stellt das Schiedsgericht klar, "dass mit dieser Erläuterung der frühere \[Entscheid\] materiell in keiner Weise geändert wird; keiner Partei wird hiermit mehr, weniger oder etwas anderes zugesprochen, und es geht ausschliesslich um eine formelle Klarstellung des früheren Entscheids".
+
+In der zweiten Vorbemerkung werden kurze Erklärungen abgegeben, auf welchen Beurteilungen der ursprüngliche Entscheid basiert.
+
+**C.**
+
+Der Beschwerdeführer beantragt dem Bundesgericht mit Beschwerde in Zivilsachen, den Entscheid des Schiedsgerichts vom 27. November 2023 vollumfänglich aufzuheben. Er macht eine Verletzung des verfahrensrechtlichen Ordre public geltend (Art. 190 Abs. 2 lit. e IPRG), einerseits wegen Nichtwahrung der 30-tägigen Erläuterungsfrist gemäss Art. 189a Abs. 1 IPRG, andererseits, weil keine blosse Erläuterung vorliege ( _res iudicata_). Sodann rügt er eine Verletzung des Gehörsanspruchs und des Gleichbehandlungsgebots (Art. 190 Abs. 2 lit. d IPRG), weil er zum Erläuterungsgesuch nicht angehört worden sei. Schliesslich moniert er Befangenheit bzw. Parteilichkeit des vorsitzenden Schiedsrichters (Art. 190 Abs. 2 lit. a IPRG) wegen mehrfacher Missachtung seiner Verfahrensrechte unter Bevorzugung der Beschwerdegegner.
+
+Die Beschwerdegegner beantragen, die Beschwerde vollumfänglich abzuweisen. Sämtliche Rügen seien unbegründet. Dem Beschwerdeführer gehe es mit seiner Beschwerde einzig darum, sich weiterhin seinen Verpflichtungen zu entziehen.
+
+Das Schiedsgericht reichte die Akten ein, liess sich aber nicht vernehmen.
+
+Die Parteien replizierten bzw. duplizierten.
+
+Mit Verfügung vom 14. Februar 2024 wurde das Gesuch um aufschiebende Wirkung abgewiesen.
+
+**Erwägungen:**
+
+**1.**
+
+**1.1.** Der ursprüngliche Entscheid des Rabbinischen Schiedsgerichts vom 12. Januar 2023 stellte einen mit Beschwerde in Zivilsachen anfechtbaren Schiedsentscheid im Sinne von Art. 77 Abs. 1 lit. a BGG i.V.m. Art. 189 IPRG (SR 291) dar (Urteil 4A\_41/2023 vom 12. Mai 2023 E. 2). Gleiches gilt für den hier angefochtenen Erläuterungsentscheid vom 27. November 2023. Dieser ist selbständig anfechtbar. Für seine Anfechtung läuft die Beschwerdefrist von 30 Tagen von Neuem (Art. 189a Abs. 2 Satz 2 IPRG). Sie ist eingehalten.
+
+**1.2.** Im Bereich der internationalen Schiedsgerichtsbarkeit ist die Beschwerde in Zivilsachen unter den Voraussetzungen der Art. 190-192 IPRG zulässig (Art. 77 Abs. 1 lit. a BGG). Der Sitz des Schiedsgerichts befindet sich vorliegend in Zürich. Der Beschwerdegegner 2 hatte im massgebenden Zeitpunkt seinen Wohnsitz ausserhalb der Schweiz (Art. 176 Abs. 1 IPRG). Da die Parteien die Geltung des 12. Kapitels des IPRG nicht ausgeschlossen haben, gelangen die Bestimmungen dieses Kapitels zur Anwendung (Art. 176 Abs. 2 IPRG).
+
+**1.3.** Damit sind allein die Rügen zulässig, die in Art. 190 Abs. 2 IPRG abschliessend aufgezählt sind ( [BGE 134 III 186](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-134-III-186#page186) E. 5). Nach Art. 77 Abs. 3 BGG prüft das Bundesgericht nur die Rügen, die in der Beschwerde vorgebracht und begründet worden sind; dies entspricht der in Art. 106 Abs. 2 BGG für die Verletzung von Grundrechten und von kantonalem und interkantonalem Recht vorgesehenen Rügepflicht ( [BGE 134 III 186](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-134-III-186#page186) E. 5 mit Hinweis).
+
+**1.4.** Das Bundesgericht legt seinem Urteil den Sachverhalt zugrunde, den das Schiedsgericht festgestellt hat (Art. 105 Abs. 1 BGG). Dazu gehören sowohl die Feststellungen über den Lebenssachverhalt, der dem Streitgegenstand zugrunde liegt, als auch jene über den Ablauf des Schiedsverfahrens (vgl. [BGE 140 III 16](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-140-III-16#page16) E. 1.3.1). Das Bundesgericht kann die Sachverhaltsfeststellung des Schiedsgerichts weder berichtigen noch ergänzen, selbst wenn diese offensichtlich unrichtig ist oder auf einer Rechtsverletzung im Sinne von Art. 95 BGG beruht (Art. 77 Abs. 2 BGG, der die Anwendbarkeit von Art. 97 BGG sowie Art. 105 Abs. 2 BGG ausschliesst). Es überprüft die tatsächlichen Feststellungen des angefochtenen Schiedsentscheids nur, wenn gegenüber diesen Sachverhaltsfeststellungen zulässige Rügen im Sinne von Art. 190 Abs. 2 IPRG vorgebracht oder ausnahmsweise Noven (Art. 99 BGG) berücksichtigt werden ( [BGE 144 III 559](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-144-III-559#page559) E. 4.1; [142 III 220](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-142-III-220#page220) E. 3.1, 239 E. 3.1; [140 III 477](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-140-III-477#page477) E. 3.1).
+
+**2.**
+
+**2.1.** Haben die Parteien nichts anderes vereinbart, kann jede Partei beim Schiedsgericht innert 30 Tagen seit Eröffnung des Entscheids beantragen, dass dieses Redaktions- und Rechnungsfehler im Entscheid berichtigt, bestimmte Teile des Entscheids erläutert oder einen ergänzenden Schiedsentscheid über Ansprüche fällt, die im Schiedsverfahren zwar geltend gemacht wurden, im Entscheid aber nicht behandelt worden sind. Innert gleicher Frist kann das Schiedsgericht von sich aus eine Berichtigung, Erläuterung oder Ergänzung vornehmen (Art. 189a Abs. 1 IPRG). Der Antrag hemmt die Rechtsmittelfristen nicht. Bezüglich des berichtigten, erläuterten oder ergänzten Teils des Entscheids läuft die Rechtsmittelfrist von Neuem (Art. 189a Abs. 2 IPRG).
+
+Diese Bestimmung trat am 1. Januar 2021 in Kraft. Sie überführt die zuvor bestehende Rechtsprechung des Bundesgerichts ( [BGE 137 III 85](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-137-III-85#page85); [131 III 164](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-131-III-164#page164); [126 III 524](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-126-III-524#page524)) ins Gesetz (vgl. Botschaft vom 24. Oktober 2018 zur Änderung des IPRG \[12. Kapitel: Internationale Schiedsgerichtsbarkeit\], BBl 2018 7163, 7200).
+
+**2.2.** Mit der Berichtigung korrigiert das Schiedsgericht Redaktions- oder Rechnungsfehler. Die Erläuterung dient der Beseitigung von Unklarheiten im Dispositiv eines Schiedsentscheids. Die Erwägungen sind einer Erläuterung nur zugänglich, soweit der Sinn der Entscheidformel erst durch deren Beizug ermittelt werden kann. Die Berichtigung oder die Erläuterung kann keine inhaltliche Abänderung des gefällten Entscheids oder eine Hinzufügung herbeiführen ( [BGE 131 III 164](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-131-III-164#page164) E. 1.1; Martin Aebi, in: Berner Kommentar, Bundesgesetz über das Internationale Privatrecht \[IPRG\], 2023 N. 6 und 7 zu Art. 189a IPRG; vgl. auch [BGE 143 III 420](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-143-III-420#page420) E. 2.1 zu Art. 129 BGG und dort E. 2.2 zum Verhältnis von Erläuterungs- und Vollstreckungsverfahren bzw. Erkenntnisverfahren).
+
+Die Berichtigung oder Erläuterung bildet integralen Bestandteil des ursprünglichen Entscheids. Die Einheit von ursprünglichem und berichtigtem bzw. erläutertem Entscheid hat auch Auswirkungen auf die Anfechtung und Vollstreckung ( [BGE 131 III 164](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-131-III-164#page164) E. 1.1 und E. 1.2).
+
+**2.3.** Mit der Ergänzung ergeht ein zum ursprünglichen Entscheid hinzutretender zusätzlicher Entscheid ( _Addendum_), mit dem das Schiedsgericht über einen Antrag oder einen Anspruch entscheidet, den die Parteien im Schiedsverfahren geltend gemacht haben, der aber unbeurteilt geblieben ist ( [BGE 131 III 164](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-131-III-164#page164) E. 1.1; Aebi, a.a.O., N. 9 zu Art. 189a IPRG). In Betracht fällt etwa auch, dass ein vergessener Kostenspruch nachgeholt wird.
+
+Eine _infra petita_ Entscheidung bildet auch einen Beschwerdegrund (Art. 190 Abs. 2 lit. c IPRG). In einem solchen Fall kann gleichzeitig Beschwerde geführt werden, wobei das Ergänzungsgesuch die Beschwerdefrist nicht hemmt. Gegebenenfalls wird das Beschwerdeverfahren sistiert, bis über das Ergänzungsgesuch entschieden ist ( [BGE 137 III 85](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-137-III-85#page85) E. 1.2; vgl. auch [BGE 131 III 164](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-131-III-164#page164) E. 1.2.4).
+
+**2.4.** In der internationalen Schiedsgerichtsbarkeit kann das Schiedsgericht eine Berichtigung, Erläuterung oder Ergänzung gemäss Art. 189a Abs. 1 IPRG auf Antrag einer Partei oder von sich aus vornehmen (dazu Bernhard Berger/Franz Kellerhals, International and Domestic Arbitration in Switzerland, 4. Aufl. Bern 2021, Rz. 1521). Dies im Gegensatz zur nationalen Schiedsgerichtsbarkeit, bei der die Vornahme von Amtes wegen nicht vorgesehen ist (Art. 388 ZPO).
+
+Der Entscheid über eine Berichtigung, Erläuterung oder Ergänzung hat in der gleichen Form und im gleichen Verfahren zu erfolgen, wie für den ursprünglichen Entscheid vorgeschrieben. Es handelt sich um ein kontradiktorisches Verfahren. Dementsprechend ist den anderen Parteien das rechtliche Gehör zu gewähren, sofern sich das Gesuch nicht als offensichtlich unbegründet erweist (Aebi, a.a.O., N. 14 zu Art. 189a IPRG; Berger/Kellerhals, a.a.O., Rz. 1523, 1526; Stefanie Pfisterer, in: Basler Kommentar zum IPRG, 4. Aufl. 2021, N. 125 zu Art. 190 IPRG; Christian Oetiker, in: Zürcher Kommentar zum IPRG, 3. Aufl. 2018, N. 151 zu Art. 190 IPRG).
+
+**2.5.** Der Erläuterungsentscheid unterliegt derselben Anfechtungsmöglichkeit wie der ursprüngliche Entscheid ( [BGE 131 III 169](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-131-III-164#page164) E. 1.2.1). Die geltend gemachten Beschwerdegründe müssen sich allerdings auf Mängel des Erläuterungsverfahrens und des berichtigten oder erläuterten Teils des Schiedsspruchs bzw. des Ergänzungsentscheids beziehen, nicht auf den ursprünglichen Entscheid. Denn das Erläuterungsverfahren dient nicht dazu, den ursprünglichen Entscheid erneut in Frage zu stellen, auch wenn eine dagegen gerichtete Beschwerde abgewiesen oder darauf nicht eingetreten wurde ( [BGE 131 III 169](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-131-III-164#page164) E. 1.2.3).
+
+**3.**
+
+Der Beschwerdeführer rügt als Verletzung des formellen Ordre public (Art. 190 Abs. 2 lit. e IPRG), dass die Frist von 30 Tagen, innert der eine Partei nach Art. 189a Abs. 1 IPRG um Erläuterung eines Schiedsentscheids ersuchen kann, um mehrere Monate überschritten wurde. Seines Erachtens ist damit das Recht auf Erläuterung verwirkt.
+
+**3.1.** Ein Verstoss gegen den verfahrensrechtlichen Ordre public liegt vor bei einer Verletzung von fundamentalen und allgemein anerkannten Verfahrensgrundsätzen, deren Nichtbeachtung zum Rechtsempfinden in einem unerträglichen Widerspruch steht, so dass die Entscheidung als mit der in einem Rechtsstaat geltenden Rechts- und Wertordnung schlechterdings unvereinbar erscheint ( [BGE 147 III 379](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-147-III-379#page379) E. 4.1; [141 III 229](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-141-III-229#page229) E. 3.2.1; [140 III 278](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-140-III-278#page278) E. 3.1; [136 III 345](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-136-III-345#page345) E. 2.1). Diese Verfahrensgarantie ist subsidiär zu den weiteren Beschwerdegründen nach Art. 190 Abs. 2 IPRG ( [BGE 138 III 270](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-138-III-270#page270) E. 2.3). Eine falsche oder gar willkürliche Anwendung von Prozessvorschriften bedeutet für sich allein noch keine Verletzung des formellen Ordre public. Vielmehr kommt einzig ein Verstoss gegen eine Regel in Betracht, die zur Gewährleistung der Fairness des Verfahrens unerlässlich ist ( [BGE 147 III 379](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-147-III-379#page379) E. 4.1; [129 III 445](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-129-III-445#page445) E. 4.2.1; [126 III 249](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-126-III-249#page249) E. 3b; Urteile 4A\_488/2023 vom 23. Januar 2024 E. 6.1; 4A\_2/2023 vom 6. Oktober 2023 E. 4.1; 4A\_254/2023 vom 12. Juni 2023 E. 5.1).
+
+**3.2.** Wenn das Bundesgericht in seinen Eintretenserwägungen zu einer Beschwerde in internationalen Schiedssachen jeweils ausführt, die Parteien hätten die Geltung des 12. Kapitels des IPRG nicht ausgeschlossen, womit die Bestimmungen dieses Kapitels zur Anwendung gelangten (so auch hier in E. 1.2 und im Urteil 4A\_41/2023 vom 12. Mai 2023 E. 1.1), sind vorab die Bestimmungen nach Art. 190 ff. IPRG betreffend das Rechtsmittelverfahren vor _Bundesgericht_ angesprochen. Damit ist aber nicht gemeint, dass das Bundesgericht über die Einhaltung der im 12. Kapitel des IPRG für das Verfahren vor dem _Schiedsgericht_ mit Sitz in der Schweiz enthaltenen Vorschriften bzw. des im dispositiven Bereich parteiautonom vereinbarten Verfahrensrechts (Art. 182 und Art. 189 Abs. 1 IPRG) wachen würde. Es greift nur ein, wenn diesbezüglich einer der in Art. 190 Abs. 2 IPRG abschliessend aufgezählten Beschwerdegründe erfüllt ist. Demnach kann das Bundesgericht die Auslegung und Anwendung der in Art. 189a Abs. 1 IPRG vorgesehenen Frist durch das Schiedsgericht nicht frei prüfen. Entsprechend scheiterte beispielsweise eine Rüge, die Berufung an das Tribunal Arbitral du Sport (TAS) sei in Verletzung der diesbezüglichen Reglementsvorschrift verspätet eingereicht worden (Urteile 4A\_2/2023 vom 6. Oktober 2023 E. 3.3; 4A\_406/2021 vom 14. Februar 2022 E. 4.2).
+
+**3.3.** Vorliegend ist bereits fraglich, ob die in Art. 189a Abs. 1 IPRG vorgesehene Frist für ein Erläuterungsgesuch von 30 Tagen nach Eröffnung des Schiedsentscheids Anwendung findet. Art. 189a Abs. 1 IPRG ist eine dispositive Norm. In casu haben die Parteien mit dem Verweis auf die nach jüdischem Gesetz geregelten Prozeduren in der Schiedsklausel vereinbart, dass das Rabbinische Schiedsgericht nach jüdischem Verfahrensrecht verfahren soll (Urteil 4A\_41/2023 vom 12. Mai 2023 E. 3.5). Es ist nicht dargetan, dass das vereinbarte jüdische Verfahrensrecht eine entsprechende Frist für ein Erläuterungsgesuch vorsieht. Aus dem angefochtenen Erläuterungsentscheid geht nicht hervor, auf welche Regeln sich das Schiedsgericht für die vorgenommene Erläuterung stützt.
+
+**3.4.** So oder anders ist keine Verletzung des formellen Ordre public dargetan. Die Nichteinhaltung der in Art. 189a Abs. 1 IPRG vorgesehenen Frist von 30 Tagen ab Eröffnung des Entscheids, so sie denn vorliegend anwendbar ist, bedeutet keinen Verstoss gegen den formellen Ordre public.
+
+Entgegen der in der Beschwerde vertretenen Ansicht handelt es sich bei einer solchen Frist nicht um einen fundamentalen und allgemein anerkannten Verfahrensgrundsatz, der dem formellen Ordre public angehört. Daran ändert nichts, dass sie dem internationalen Standard entsprechen mag und in mehreren Verfahrensordnungen der Internationalen Schiedsgerichtsbarkeit ebenfalls vorgesehen ist (Art. 33 Abs. 1 und - relativierend - Abs. 4 UNCITRAL Model Law on International Commercial Arbitration; Art. 37 Swiss Rules on International Arbitration; Art. 36 ICC Arbitration Rules; vgl. auch Aebi, a.a.O., N. 13 zu Art. 189a IPRG), ebenso wenig, dass dafür namentlich Gründe der Prozessbeschleunigung sprechen mögen (Botschaft vom 24. Oktober 2018 zur Änderung des IPRG \[12. Kapitel: Internationale Schiedsgerichtsbarkeit\], BBl 2018 7163, 7200 f.). Dies illustriert bereits ein Blick in die Parallelnorm für die interne Schiedsgerichtsbarkeit, wonach eine relative Frist von 30 Tagen ab Entdecken des Erläuterungsgrundes läuft, und eine einjährige absolute Frist seit Zustellung des Schiedsentscheids gilt (Art. 388 Abs. 2 ZPO). In der Literatur gibt es Stimmen, die sich auch für die internationale Schiedsgerichtsbarkeit für eine entsprechende Regelung aussprechen und sie für "more reasonable" halten (Berger/Kellerhals, a.a.O., Rz. 1525a). Es kann daher nicht gesagt werden, es handle sich bei der in Art. 189a Abs. 1 IPRG vorgesehenen Frist um einen fundamentalen, allgemein anerkannten Verfahrensgrundsatz, dessen Nichteinhaltung zu einem Verstoss gegen den formellen Ordre public führt.
+
+Damit erweist sich die Rüge des Beschwerdeführers als unbegründet.
+
+**4.**
+
+Der Beschwerdeführer wirft dem Schiedsgericht vor, es habe seinen Gehörsanspruch und den Gleichbehandlungsgrundsatz verletzt, indem es den Erläuterungsentscheid ohne jegliche vorgängige Anhörung seinerseits erlassen und ihm das Erläuterungsgesuch nicht zugestellt habe (Art. 190 Abs. 2 lit. d IPRG).
+
+**4.1.** Art. 190 Abs. 2 lit. d IPRG lässt die Anfechtung allein wegen der zwingenden Verfahrensregeln gemäss Art. 182 Abs. 3 IPRG zu. Danach muss das Schiedsgericht insbesondere den Anspruch der Parteien auf rechtliches Gehör wahren. Dieser entspricht - mit Ausnahme des Anspruchs auf Begründung - dem in Art. 29 Abs. 2 BV gewährleisteten Verfassungsrecht. Die Rechtsprechung leitet daraus insbesondere das Recht der Parteien ab, sich über alle für das Urteil wesentlichen Tatsachen zu äussern, ihren Rechtsstandpunkt zu vertreten, ihre entscheidwesentlichen Sachvorbringen mit tauglichen sowie rechtzeitig und formrichtig angebotenen Mitteln zu beweisen, sich an den Verhandlungen zu beteiligen und in die Akten Einsicht zu nehmen ( [BGE 147 III 379](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-147-III-379#page379) E. 3.1, 586 E. 5.1; [142 III 360](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-142-III-360#page360) E. 4.1.1; [130 III 35](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-130-III-35#page35) E. 5; je mit Hinweisen).
+
+Der Anspruch auf Gleichbehandlung gebietet, dass das Schiedsgericht die Parteien in allen Verfahrensabschnitten (einschliesslich einer allfälligen Verhandlung, unter Ausschluss der Urteilsberatung; vgl. Urteil 4A\_360/2011 vom 31. Januar 2012 E. 4.1) gleich behandelt ( [BGE 133 III 139](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-133-III-139#page139) E. 6.1 S. 143) und nicht der einen Partei gewährt, was der anderen verwehrt wird ( [BGE 147 III 586](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-147-III-586#page586) E. 5.1 mit Hinweisen). Beiden Parteien muss die gleiche Möglichkeit eingeräumt werden, im Prozess ihren Standpunkt zu vertreten ( [BGE 147 III 379](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-147-III-379#page379) E. 3.1, 586 E. 5.1; [142 III 360](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-142-III-360#page360) E. 4.1.1).
+
+**4.2.** Das Bundesgericht ist an den vom Schiedsgericht festgestellten Sachverhalt zum Ablauf des Schiedsverfahrens gebunden und es kann diesen auch nicht vervollständigen (vgl. Erwägung 1.4). Entsprechend ist es nicht Aufgabe des Bundesgerichts, allzu knappe oder fehlende Feststellungen selber aus den Schiedsakten zusammenzutragen. Ebenso wenig kann es diesbezüglichen Ausführungen der Parteien in ihren Rechtsschriften Rechnung tragen, selbst wenn sie durch die Schiedsakten belegt sein mögen. Diese Beschränkung der bundesgerichtlichen Kognition betreffend den Sachverhalt in internationalen Schiedssachen wirkt sich besonders im vorliegenden Verfahren vor einem Rabbinischen Schiedsgericht aus. Wie das Bundesgericht schon zum ursprünglichen Schiedsverfahren festhielt, traf das Rabbinische Schiedsgericht im Schiedsentscheid entsprechend dem im jüdischen Verfahrensrecht vorherrschenden Grundsatz der Mündlichkeit kaum Feststellungen zum Prozessverlauf und zur Sache (Urteil 4A\_41/2023 vom 12. Mai 2023 E. 3.3).
+
+**4.3.** Dem nunmehr angefochtenen Erläuterungsentscheid ist aber immerhin zu entnehmen, dass das Schiedsgericht Einblick in das Urteil des Bezirksgerichts Zürich vom 29. September 2023 sowie in das Gesuch des klägerischen Vertreters vom 12. Oktober 2023 um Erläuterung des Schiedsspruchs vom 12. Januar 2023 nahm. Von einer Antwort des Beklagten steht nichts. Dies lässt annehmen, dass das Schiedsgericht effektiv keine Antwort eingeholt hat, ansonsten es diese bei den Dokumenten, in die es Einblick nahm, angeführt hätte, wie es dies für das Erläuterungsgesuch tat.
+
+Nichts anderes ergibt sich aus dem Einleitungssatz des Dispositivs des Erläuterungsentscheids: "Nach Anhörung und Prüfung aller Argumente beider Parteien kommt das \[Schiedsgericht\] zu folgendem \[Urteil\]". Diese einleitende Feststellung (Anhörung aller Argumente beider Parteien) ist aus dem ursprünglichen Schiedsspruch übernommen und bezieht sich offensichtlich auf das ursprüngliche Schiedsverfahren, nicht aber auf das Erläuterungsverfahren.
+
+Sodann hat das Schiedsgericht dem Vorhalt, den Beschwerdeführer nicht angehört und ihm das Gesuch nicht zugestellt zu haben, vernehmlassungsweise nicht widersprochen. Ebenso wenig vermochten die Beschwerdegegner darzutun, dass der Beschwerdeführer angehört worden wäre.
+
+Damit steht für das Bundesgericht in tatsächlicher Hinsicht fest, dass das Schiedsgericht seinen Erläuterungsentscheid traf, ohne dem Beschwerdeführer vorher Gelegenheit eingeräumt zu haben, zum Erläuterungsgesuch der Beschwerdegegner Stellung zu nehmen, und ohne ihm das Gesuch zugestellt zu haben.
+
+**4.4.** Bei dieser Sachlage liegt eine grundlegende Missachtung des fundamentalen Verfahrensprinzips der vorgängigen Anhörung beider Parteien vor. Es geht nicht an, dass eine Partei mehr als zehn Monate nach Eröffnung des Schiedsspruchs mit einem Erläuterungsentscheid überrascht wird, ohne dass sie überhaupt Kenntnis von einem Erläuterungsgesuch der Gegenpartei hatte und dazu Stellung nehmen konnte. Das Schiedsgericht hat die Anhörungspflicht (oben E. 2.4) und den Gleichbehandlungsgrundsatz verletzt.
+
+Dass nach Art. 189a Abs. 1 IPRG eine Erläuterung auch von Amtes wegen vorgenommen werden kann, ändert daran nichts. Es bedeutet lediglich, dass das Schiedsgericht eine Berichtigung oder Erläuterung von sich aus vornehmen kann, ohne dass eine Partei darum ersucht hätte. Indessen entbindet diese Befugnis das Schiedsgericht nicht von der Pflicht, die Parteien vorher anzuhören, es sei denn, es gehe bloss um die Berichtigung eines offensichtlichen Kanzleiversehens bzw. eines Schreib- oder Rechnungsfehlers.
+
+**4.5.** Nicht stichhaltig ist das weitere Argument der Beschwerdegegner, der Beschwerdeführer habe nicht ausgeführt, was er dem Schiedsgericht bei einer vorgängigen Anhörung hätte vortragen wollen und das den Ausgang des Verfahrens beeinflusst hätte. Es trifft zwar zu, dass das Bundesgericht trotz formeller Natur des Gehörsanspruchs betont, die Wahrung des rechtlichen Gehörs stelle keinen Selbstzweck dar. Der Beschwerdeführer muss daher darlegen, inwiefern das Verfahren anders ausgegangen wäre, wenn die Gehörsverletzung ausgeblieben wäre; ansonsten besteht kein Interesse an der Aufhebung des Entscheids ( [BGE 147 III 586](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=BGE-147-III-586#page586) E. 5.2.1; Urteil 4A\_167/2021 vom 19. Juli 2021 E. 4.1.2).
+
+Hier geht es nicht um die blosse Nichtwürdigung von vorgetragenen Argumenten, sondern um eine vollständige Nichtanhörung einer Partei in einem neuen Verfahren, das zu einem Erläuterungsentscheid führte, der nicht in der blossen Korrektur eines Versehens besteht, sondern über weite Strecken ausführlicher gefasst erscheint. Da es sich um eine komplette Nichtanhörung handelt, kann dem Beschwerdeführer nicht entgegengehalten werden, er habe nicht dargetan, was er zum Erläuterungsgesuch ausgeführt hätte, das Einfluss auf den Entscheid hätte haben können. Denn offenbar wurde ihm das Erläuterungsgesuch der Beschwerdegegner vom 12. Oktober 2023 nicht einmal _nach_ Eröffnung des Erläuterungsentscheids zugestellt. Entsprechend konnte er in der Beschwerde auch nicht ausführen, was er zum Erläuterungsgesuch gesagt hätte, wenn er dazu angehört worden wäre. Unabhängig vom Inhalt des Erläuterungsgesuchs erwähnt der Beschwerdeführer aber, dass er die Nichteinhaltung der in Art. 189a Abs. 1 IPRG vorgesehenen Frist und infolge dessen Verwirkung hätte geltend machen wollen. Dieses Vorbringen hätte auf den Verfahrensausgang Einfluss gehabt, wenn ihm das Schiedsgericht gefolgt wäre. Es kann daher nicht gesagt werden, die Monierung der Gehörsverletzung sei reiner Selbstzweck. Dem Beschwerdeführer kann das Interesse an der Aufhebung des Erläuterungsentscheids nicht abgesprochen werden.
+
+**4.6.** Die Rüge der Verletzung des Gehörsanspruchs nach Art. 190 Abs. 2 lit. d IPRG ist begründet. Dies bildet Grund genug, um den angefochtenen Erläuterungsentscheid aufzuheben.
+
+Damit erübrigen sich Ausführungen zu den weiteren Rügen, mithin zu den Vorwürfen, das Schiedsgericht sei über eine blosse Erläuterung hinausgegangen (Verletzung des Ordre public, Art. 190 Abs. 2 lit. e IPRG), und der Vorsitzende manifestiere wegen Bevorzugung der Beschwerdegegner Parteilichkeit (Art. 190 Abs. 2 lit. a IPRG).
+
+**5.**
+
+Die Beschwerde ist gutzuheissen. Bei diesem Ausgang des Verfahrens werden die Beschwerdegegner kosten- und entschädigungspflichtig, dies in solidarischer Haftbarkeit (Art. 66 Abs. 1 und 5 sowie Art. 68 Abs. 2 und 4 BGG).
+
+**Demnach erkennt das Bundesgericht:**
+
+**1.**
+
+Die Beschwerde wird gutgeheissen. Der Erläuterungsentscheid des Rabbinischen Schiedsgerichts mit Sitz in Zürich vom 27. November 2023 wird aufgehoben.
+
+**2.**
+
+Die Gerichtskosten von Fr. 6'500.-- werden den Beschwerdegegnern auferlegt, in solidarischer Haftbarkeit.
+
+**3.**
+
+Die Beschwerdegegner haben den Beschwerdeführer für das bundesgerichtliche Verfahren mit Fr. 7'500.-- zu entschädigen, in solidarischer Haftbarkeit.
+
+**4.**
+
+Dieses Urteil wird den Parteien und dem Schiedsgericht mit Sitz in Zürich schriftlich mitgeteilt.
+
+Lausanne, 25. März 2024
+
+Im Namen der I. zivilrechtlichen Abteilung
+
+des Schweizerischen Bundesgerichts
+
+Die Präsidentin: Jametti
+
+Der Gerichtsschreiber: Leemann
+
+### Navigation
+
+[Neue Suche](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=simple_query "")
+
+[ähnliche Leitentscheide suchen](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=simple_similar_documents&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&docid=2024-03-25-4A_603-2023&azaclir=clir)
+
+[ähnliche Urteile ab 2000 suchen](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=simple_similar_documents&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&docid=2024-03-25-4A_603-2023)
+
+© 2008
+[Eurospider Information Technology AG](http://www.eurospider.com/ "Eurospider Information Technology AG")
+
+[Drucken](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023#) [nach oben](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023#)
+
+Zurück
+
+false

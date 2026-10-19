@@ -1,0 +1,25 @@
+# Quellen und Rechercheprotokoll
+
+Prüftag und Bearbeitungsstichtag: **19. Oktober 2026**. Der [Abruf- und Hashnachweis](sources/verification.json) enthält die tatsächlichen UTC-Abrufzeiten, HTTP-Ergebnisse, Formaterkennung und SHA-256-Werte. Rohantworten werden aufbewahrt. Amtliche XML-Dateien sind als Akoma Ntoso geparst; HTML-Normdateien enthalten 247 Artikel und den Anhang. Dynamische Fedlex-Seitenhüllen werden nicht als Normtext ausgegeben; sie sind durch gerenderte Firecrawl-Auszüge ergänzt.
+
+| Gegenstand | Amtliche Quelle | Gesicherter Nachweis |
+| --- | --- | --- |
+| Aktueller Erlass | [Fedlex SR 291](https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/de) | [Gerenderte Fassungsliste](sources/fedlex-current-rendered.md) |
+| Normtext 2026 | [Amtliches XML](https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20260101-de-xml-3.xml) | [XML](sources/fedlex-20260101.xml), [HTML](sources/fedlex-20260101.html), [kanonischer Extrakt](sources/canonical.md) |
+| Vorfassung 2025 | [Fedlex 2025](https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/de) | [HTML](sources/fedlex-20250101.html), [Änderungskarte](sources/change-map.json) |
+| Chronologie | [Fedlex history](https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/de/history) | [Auszug](sources/fedlex-history-rendered.md) |
+| Änderungsübersicht | [Fedlex changes](https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/de/changes) | [Auszug](sources/fedlex-changes-rendered.md) |
+| Änderung und Inkraftsetzung 2026 | [AS 2025 684](https://www.fedlex.admin.ch/eli/oc/2025/684/de) | [Amtliches XML](sources/as-2025-684.xml), [gerenderter Text](sources/as-2025-684-rendered.md) |
+| Ursprünglicher Intake | Zugewiesener lokaler SR-Text, unverändert | [Kopie](sources/intake-original.md) |
+| Schiedserläuterung und Gehör | [4A_603/2023, 25.03.2024](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://25-03-2024-4A_603-2023) | [Entscheidungskarte BGE 150 III 238](cases/BGE-150-III-238.md) |
+| Revision und strafbare Einwirkung | [4A_528/2024, 26.06.2025](https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://26-06-2025-4A_528-2024) | [Entscheidungskarte BGE 151 III 586](cases/BGE-151-III-586.md) |
+
+Die dynamischen Fedlex-Metadaten zeigen in einzelnen gerenderten Feldern einen um einen Tag verschobenen Wert. Für Beschluss-, Inkrafttretens- und Anwendbarkeitsdaten werden deshalb die amtlichen XML-Metadaten und der Publikationstext verwendet, nicht diese Anzeige. Die Änderungspublikation setzt die Änderung ausdrücklich auf den 1. Januar 2026 in Kraft. Die aktuelle Chronologie weist keine spätere Fassung aus.
+
+Die Recherche begann mit amtlicher Fedlex-Fassung, Chronologie und Änderungsseite. Der mechanische Vergleich 2025/2026 weist Art. 11 und 11a als geändert aus. Beide Versionen bleiben erhalten; der ursprüngliche Intake wurde nicht geändert. [coverage-evidence.json](coverage-evidence.json) enumeriert unabhängig aus XML gewonnene offizielle Kennungen und HTML-Parserkennungen. [completeness-report.json](completeness-report.json) dokumentiert fehlende, zusätzliche und doppelte Kennungen sowie Leerstellen. [quality-report.json](quality-report.json) ergänzt den vollständigen inhaltsbezogenen XML-Abgleich.
+
+Die Rechtsprechungsrecherche erfolgte selektiv in der offiziellen Bundesgerichtsdatenbank und im lokalen schweizerischen BGE-/BGer-Korpus. Die Suche «site.bger.ch IPRG Art. 190 ordre public BGE» führte zu BGE 150 III 238; ergänzende lokale Suchen nach IPRG, Art. 190 und aktuellen Entscheiden ergaben BGE 151 III 586. Anschliessend wurden beide vollständigen Entscheidungen nach Aktenzeichen bei bger.ch abgerufen und mit dem lokalen BGer-Volltext und dem amtlichen BGE-Auszug gelesen. Der [Suchnachweis](sources/case-search.json) und das [Rechercheregister](sources/research-log.json) sichern Umfang und Auswahl. Andere Treffer wurden nicht als inhaltlich verifizierte Autoritäten verwendet.
+
+Für Art. 182, 189a, 190 und 190a bestehen die genau zugeordneten Rechtsprechungsbelege. Für die übrigen Einheiten wird in dieser selektiven Recherche kein hinreichend geprüfter Einzelentscheid als Beleg verwendet. Dies bedeutet nicht, dass zu diesen Artikeln keine Rechtsprechung existiert. Technische und aufgehobene Einheiten erhalten keine künstlichen Entscheidungszitate. Es fand keine erschöpfende Suche über alle Sachgebiete oder bis zum letzten am Prüftag publizierten Urteil statt.
+
+Die Kommentarrechte unter Apache-2.0 erstrecken sich auf den eigenständigen Text. Amtliche Gesetzes- und Gerichtsquellen sowie ihre Herkunftsangaben werden getrennt dokumentiert; kommerzielle Redaktionen wurden nicht als amtliche Texte behandelt oder übernommen. In Originalurteilen erwähnte Literatur und ältere Judikatur werden nicht ohne eigene Prüfung als neue Belege des Kommentars ausgegeben.
