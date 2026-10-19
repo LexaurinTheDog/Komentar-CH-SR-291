@@ -75,7 +75,8 @@
     {
       "url": "https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&highlight_docid=atf://150-III-238:de",
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
-      "accessed_at": "2026-10-19T14:38:00.563454+00:00"
+      "accessed_at": "2026-10-19T14:38:00.563454+00:00",
+      "resolution": "Python trust-chain error retained as failed attempt. Full official judgments subsequently fetched using curl with verified system TLS; see successful docket-specific HTTP 200 records."
     },
     {
       "path": "sources/fedlex-current-rendered.md",
@@ -206,5 +207,7 @@
     "checked_on": "2026-10-19",
     "later_version_found": false,
     "limitation": "Fedlex rendered metadata shows dates shifted back one day in some fields; authoritative XML and publication text used for dates."
-  }
+  },
+  "integrity_checked_at": "2026-10-19T14:55:01.065557+00:00",
+  "integrity_all_recorded_hashes_match": true
 }

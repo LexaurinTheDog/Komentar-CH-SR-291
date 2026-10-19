@@ -777,28 +777,11 @@
   "exact_repeated_substantive_paragraphs": [],
   "shared_18_word_sequences": [],
   "local_links_checked": 59,
-  "missing_local_links": [
-    [
-      "README.md",
-      "quality-report.json"
-    ],
-    [
-      "REVIEW.md",
-      "quality-report.json"
-    ],
-    [
-      "REVIEW.md",
-      "validation.json"
-    ],
-    [
-      "SOURCES.md",
-      "quality-report.json"
-    ]
-  ],
+  "missing_local_links": [],
   "limitations": [
     "Structural and wording tests do not establish legal correctness.",
     "Exact repetition checks do not establish depth or originality by themselves.",
     "Independent second-pass substantive review remains pending."
   ],
-  "ok": false
+  "ok": true
 }

@@ -514,6 +514,11 @@
     {
       "id": "annex_u1/lvl_u1/lvl_II",
       "disposition": "Als selbständige Einheit vollständig aus konsolidiertem Anhang übernommen; Auslassungszeichen und amtliche Verweisnotiz erhalten."
+    },
+    {
+      "scope": "whole current consolidated version",
+      "official_annex_count": 1,
+      "disposition": "One annex, two operative numbered blocks I/II. No other current annex in official XML or HTML. Annex II is an explicit consolidated ellipsis with original-publication note, retained and explained; not reconstructed as simultaneously operative historical amendments."
     }
   ]
 }

@@ -13,5 +13,51 @@
   "source_sha256": "f27fa4861ec625cadd9454f99556912cbc2caa46a4092f29f46701904094045d",
   "xml_sha256": "3651f38282edcb4c40feb1527588ca9df531e262b2472bd9300fda00a6eee680",
   "method": "HTML article elements and annex operative levels independently reconciled to AKN article/level eId; paragraph/list blocks preserved, footnotes separated; ellipsis slots retained.",
+  "explicit_repealed_subslots": [
+    {
+      "official_id": "art_5/para_3",
+      "text": "…",
+      "disposition": "In containing article retained as explicit repealed/empty position; editorial repeal note preserved separately."
+    },
+    {
+      "official_id": "art_11_a/para_4",
+      "text": "…",
+      "disposition": "In containing article retained as explicit repealed/empty position; editorial repeal note preserved separately."
+    },
+    {
+      "official_id": "art_108/para_2/lbl_c",
+      "text": "…",
+      "disposition": "In containing article retained as explicit repealed/empty position; editorial repeal note preserved separately."
+    },
+    {
+      "official_id": "art_109/para_3",
+      "text": "…",
+      "disposition": "In containing article retained as explicit repealed/empty position; editorial repeal note preserved separately."
+    },
+    {
+      "official_id": "art_129/para_2",
+      "text": "…",
+      "disposition": "In containing article retained as explicit repealed/empty position; editorial repeal note preserved separately."
+    },
+    {
+      "official_id": "art_151/para_4",
+      "text": "…",
+      "disposition": "In containing article retained as explicit repealed/empty position; editorial repeal note preserved separately."
+    },
+    {
+      "official_id": "art_180/para_3",
+      "text": "…",
+      "disposition": "In containing article retained as explicit repealed/empty position; editorial repeal note preserved separately."
+    }
+  ],
+  "annexes": {
+    "official_current_annex_count": 1,
+    "in_scope_blocks": [
+      "annex_u1/lvl_u1/lvl_I",
+      "annex_u1/lvl_u1/lvl_II"
+    ],
+    "absence_of_additional_current_annex": "Official XML components/level structure and complete HTML inspected; no second current annex. Historical changes index entries are not additional simultaneous operative annexes."
+  },
+  "paragraphs_and_lists": "All 497 paragraph elements and 146 item elements are represented within their parent articles/annex; character-level XML comparison confirms no omitted or duplicated operative content.",
   "ok": true
 }
