@@ -1,0 +1,34 @@
+{
+  "checked_at": "2026-10-19",
+  "units": 249,
+  "independent_expected_count": 249,
+  "missing_ids": [],
+  "unexpected_ids": [],
+  "duplicate_ids": [],
+  "xml_wording_mismatches": [],
+  "xml_wording_agreement": 1.0,
+  "xml_comparison": "All non-whitespace characters after NFKC compared per unit, with authorial notes, article headings and commencement metadata excluded on both sides; no punctuation or words discarded.",
+  "paragraph_count": 497,
+  "list_item_count": 146,
+  "empty_repealed_slots": [
+    "art_12",
+    "art_65_b",
+    "art_65_d"
+  ],
+  "commented_units": 249,
+  "missing_commentary": [],
+  "extra_commentary": [],
+  "duplicate_commentary_blocks": [],
+  "commentary_characters": 216046,
+  "median_commentary_characters": 862,
+  "exact_repeated_substantive_paragraphs": [],
+  "local_links_checked": 59,
+  "missing_local_links": [],
+  "limitations": [
+    "Structural and wording tests do not establish legal correctness.",
+    "Exact repetition checks do not establish depth or originality by themselves.",
+    "Independent second-pass substantive review remains pending."
+  ],
+  "ok": true
+}
+shared phrase count 0
