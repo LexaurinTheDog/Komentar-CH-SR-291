@@ -1,0 +1,142 @@
+{
+  "complete": true,
+  "units_reviewed": 249,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "R1",
+      "units": [
+        "art_86"
+      ],
+      "severity": "substantive",
+      "finding": "Death-place example did not establish last domicile required for jurisdiction.",
+      "correction": "Example now states last domicile in Bern.",
+      "resolved": true
+    },
+    {
+      "id": "R2",
+      "units": [
+        "art_85"
+      ],
+      "severity": "substantive",
+      "finding": "Commentary added a general urgency requirement to the indispensable-protection jurisdiction.",
+      "correction": "Tied analysis to statutory indispensability; removed general extra urgency condition.",
+      "resolved": true
+    },
+    {
+      "id": "R3",
+      "units": [
+        "art_114",
+        "art_149"
+      ],
+      "severity": "precision",
+      "finding": "Residence conditions and equal versus subsidiary forum alternatives needed clearer separation.",
+      "correction": "Explained consumer/provider alternatives and employee versus defendant residence conditions for recognition.",
+      "resolved": true
+    },
+    {
+      "id": "R4",
+      "units": [
+        "art_170",
+        "art_172",
+        "art_173",
+        "art_174",
+        "art_174_a",
+        "art_175"
+      ],
+      "severity": "precision",
+      "finding": "Creditor categories or Swiss-creditor shorthand could imply privilege-only participation or nationality.",
+      "correction": "Used Article 172(1) category reference and express domicile in Switzerland.",
+      "resolved": true
+    },
+    {
+      "id": "R5",
+      "units": [
+        "art_180_a",
+        "art_184",
+        "art_185_a"
+      ],
+      "severity": "precision",
+      "finding": "Distinct challenge periods and tribunal consent for evidence assistance needed unambiguous wording.",
+      "correction": "Specified separate 30 days from application and party acting with tribunal consent.",
+      "resolved": true
+    },
+    {
+      "id": "R6",
+      "units": [
+        "art_190_a"
+      ],
+      "severity": "authority_detail",
+      "finding": "Crime-based revision explanation needed fuller procedural proof requirements.",
+      "correction": "Added separate criminal procedure, objective offence elements, alternative proof if unavailable, and actual influence on the disposition; checked full judgment 4A_528/2024 E. 5.1–5.3.",
+      "resolved": true
+    },
+    {
+      "id": "R7",
+      "units": [
+        "art_45",
+        "art_82",
+        "art_123",
+        "art_149_a",
+        "art_149_b"
+      ],
+      "severity": "wording",
+      "finding": "Age condition, objective applicable-law determination, sentence subject, oral establishment and asset description required precision.",
+      "correction": "Individual wording fixes, preserved substantive prose.",
+      "resolved": true
+    },
+    {
+      "id": "R8",
+      "units": [],
+      "severity": "structure",
+      "finding": "Duplicate chapter metadata keys caused chapters 3a/7a/9a to overwrite main book titles for 3/7/9.",
+      "correction": "Unique descriptors now combine both official chapter titles; regenerated index and chapters.",
+      "resolved": true
+    },
+    {
+      "id": "R9",
+      "units": [],
+      "severity": "source_completeness",
+      "finding": "Four unnumbered preamble footnotes were retained only in raw sources, not separately accessible to book readers.",
+      "correction": "Parser now extracts preamble and independently assigns every one of 193 official footnotes; linked source appendix and register included.",
+      "resolved": true
+    },
+    {
+      "id": "R10",
+      "units": [
+        "art_182",
+        "art_189_a",
+        "art_190",
+        "art_190_a"
+      ],
+      "severity": "authority_check",
+      "finding": "Both cited judgments and all mapped claims checked against full text; no invented holding found.",
+      "correction": "Expanded cards with precise hearing exceptions and criminal-procedure proof limits; party allegations remain separate from court holdings.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Selective case-law coverage: two verified arbitration judgments; no exhaustive survey across all IPRG fields or all decisions published by the review date.",
+    "Referenced treaties, foreign substantive law and other statutes are not independently comprehensively commented; treaty membership, reservations and historical applicability require case-specific checking.",
+    "Consolidated annex II is an official ellipsis with historical publication reference; omitted historical amendments of other enactments are not reconstructed as current parallel statutory units.",
+    "This is an internal second-process manuscript review, not external professional approval or a guarantee of legal correctness.",
+    "Local links and selected primary official endpoints were checked; permanent availability of every external link was not exhaustively tested."
+  ],
+  "review_date": "2026-10-19",
+  "legal_text_date": "2026-01-01",
+  "changed_commentary_units": 19,
+  "reviewed_unit_evidence": "review-units.json",
+  "technical_checks": "review-technical-checks.json",
+  "validation": {
+    "repo": "Komentar-CH-SR-291",
+    "units": 249,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 218003,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "review_report": "REVIEW.md",
+  "source_manifest": "sources/verification.json",
+  "no_external_publication_or_submission": true
+}
