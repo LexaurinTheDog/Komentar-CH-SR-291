@@ -14,4 +14,4 @@ Lesen: [Inhaltsverzeichnis](INDEX.md) · [Einleitung](00-einleitung.md) · [Quel
 
 Originalkommentar © 2026 Vojtěch Říha. Der eigenständige Kommentar steht unter [Apache License 2.0](LICENSE); amtliche Gesetzes- und Gerichtsquellen sowie deren Herkunftshinweise werden davon getrennt behandelt. Die Lizenz des Kommentars beansprucht keine Rechte an amtlichen Texten oder zitierten Drittmaterialien. Der Band enthält keine übernommenen kommerziellen Kommentierungen. Quellenkopien können im gerichtlichen Original vorhandene Literaturverweise enthalten; diese sind keine selbständig verifizierten oder übernommenen Literaturbelege dieses Kommentars.
 
-Bereitgestellt als Arbeitsentwurf, ohne Gewähr und ohne fallbezogene Rechtsberatung. Projektprofil: [LexaurinTheDog](https://github.com/LexaurinTheDog). Diese Bearbeitung wurde ausschliesslich lokal gespeichert; keine Veröffentlichung ist damit verbunden.
+Bereitgestellt als Arbeitsentwurf, ohne Gewähr und ohne fallbezogene Rechtsberatung. Projektprofil: [LexaurinTheDog](https://github.com/LexaurinTheDog).
